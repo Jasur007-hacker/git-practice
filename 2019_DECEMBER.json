@@ -1,0 +1,5850 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401576890,
+        "longitudeE7" : 694656050,
+        "placeId" : "ChIJzQEAkZKlsTgRxtZh8R_Mrto",
+        "address" : "R Mamatov St\nProletarsk\nTajikistan",
+        "name" : "Khudzhandi",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 43.350544
+      },
+      "duration" : {
+        "startTimestampMs" : "1575192231676",
+        "endTimestampMs" : "1575197154512"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401573750,
+      "centerLngE7" : 694622500,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 27.138323
+      }, {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 16.915245
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 6.3513646
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 6.244523
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401570707,
+        "longitudeE7" : 694622532
+      },
+      "endLocation" : {
+        "latitudeE7" : 401597772,
+        "longitudeE7" : 694503353
+      },
+      "duration" : {
+        "startTimestampMs" : "1575197154512",
+        "endTimestampMs" : "1575200703542"
+      },
+      "distance" : 1056,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 39.96098041534424
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.060715079307556
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 17.962603271007538
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401571731,
+          "lngE7" : 694622421
+        }, {
+          "latE7" : 401586799,
+          "lngE7" : 694580078
+        }, {
+          "latE7" : 401596832,
+          "lngE7" : 694503402
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 41.316998
+      },
+      "duration" : {
+        "startTimestampMs" : "1575200703542",
+        "endTimestampMs" : "1575216908628"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401612400,
+      "centerLngE7" : 694499600,
+      "visitConfidence" : 66,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 32.805687
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 18.544893
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 7.332423
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401597772,
+        "longitudeE7" : 694503353
+      },
+      "endLocation" : {
+        "latitudeE7" : 401612420,
+        "longitudeE7" : 694499628
+      },
+      "duration" : {
+        "startTimestampMs" : "1575216908628",
+        "endTimestampMs" : "1575221054203"
+      },
+      "distance" : 1234,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.595964550971985
+      }, {
+        "activityType" : "STILL",
+        "probability" : 37.82036006450653
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.37588942050934
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401605606,
+          "lngE7" : 694573516
+        }, {
+          "latE7" : 401598625,
+          "lngE7" : 694518356
+        }, {
+          "latE7" : 401609916,
+          "lngE7" : 694492950
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401605772,
+          "lngE7" : 694573505,
+          "timestampMs" : "1575217151628",
+          "accuracyMeters" : 16
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575221054203",
+        "location" : {
+          "latitudeE7" : 401612420,
+          "longitudeE7" : 694499628,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 41.272224
+      },
+      "duration" : {
+        "startTimestampMs" : "1575221054203",
+        "endTimestampMs" : "1575252728086"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401612400,
+      "centerLngE7" : 694499600,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 33.300552
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 13.179795
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 12.247428
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401612420,
+        "longitudeE7" : 694499628
+      },
+      "endLocation" : {
+        "latitudeE7" : 403031151,
+        "longitudeE7" : 696303708
+      },
+      "duration" : {
+        "startTimestampMs" : "1575252728086",
+        "endTimestampMs" : "1575281401295"
+      },
+      "distance" : 26370,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.83166229724884
+      }, {
+        "activityType" : "STILL",
+        "probability" : 28.781217336654663
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.888105869293213
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401609916,
+          "lngE7" : 694492950
+        }, {
+          "latE7" : 401674156,
+          "lngE7" : 695034713
+        }, {
+          "latE7" : 401601448,
+          "lngE7" : 695198822
+        }, {
+          "latE7" : 402717895,
+          "lngE7" : 696048660
+        }, {
+          "latE7" : 403032302,
+          "lngE7" : 696303024
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401674538,
+          "lngE7" : 695034714,
+          "timestampMs" : "1575277843040",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 401597595,
+          "lngE7" : 695206299,
+          "timestampMs" : "1575278084153",
+          "accuracyMeters" : 77
+        }, {
+          "latE7" : 402717819,
+          "lngE7" : 696048813,
+          "timestampMs" : "1575279997136",
+          "accuracyMeters" : 17
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575281401320",
+        "location" : {
+          "latitudeE7" : 402555668,
+          "longitudeE7" : 695938906,
+          "accuracyMetres" : 107
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 403028927,
+        "longitudeE7" : 696300646,
+        "placeId" : "ChIJ212LMy-zsTgRAshIpgG4yy8",
+        "address" : "ЯГОДКА\nХуджанд\nТаджикистан",
+        "name" : "American Space Khujand",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 44.02187
+      },
+      "duration" : {
+        "startTimestampMs" : "1575281401295",
+        "endTimestampMs" : "1575288014294"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 403031100,
+      "centerLngE7" : 696303700,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 403042522,
+        "longitudeE7" : 696324420,
+        "placeId" : "ChIJSZwCTQ2zsTgR9-6ub6LLF-8",
+        "locationConfidence" : 26.921356
+      }, {
+        "latitudeE7" : 403057848,
+        "longitudeE7" : 696296587,
+        "placeId" : "ChIJpVb1D3OzsTgR-c-4YF_AXwY",
+        "locationConfidence" : 9.84454
+      }, {
+        "latitudeE7" : 403023325,
+        "longitudeE7" : 696316548,
+        "placeId" : "ChIJhRZtDQ2zsTgRaJ-TaDiNSX0",
+        "locationConfidence" : 5.3242874
+      }, {
+        "latitudeE7" : 403028385,
+        "longitudeE7" : 696301671,
+        "placeId" : "ChIJx9VA40mzsTgRmsnm5hsRBI0",
+        "locationConfidence" : 4.979831
+      }, {
+        "latitudeE7" : 403059635,
+        "longitudeE7" : 696294863,
+        "placeId" : "ChIJE488D3OzsTgRx2kFZvSQ9KM",
+        "locationConfidence" : 3.3441904
+      }, {
+        "latitudeE7" : 403032652,
+        "longitudeE7" : 696272279,
+        "placeId" : "ChIJC5D3WguzsTgR-N7coNEzWzk",
+        "locationConfidence" : 2.5186667
+      }, {
+        "latitudeE7" : 403041192,
+        "longitudeE7" : 696325023,
+        "placeId" : "ChIJN8XETQ2zsTgRL2AQTDrjm2A",
+        "locationConfidence" : 1.0948218
+      }, {
+        "latitudeE7" : 403057295,
+        "longitudeE7" : 696305966,
+        "placeId" : "ChIJjR8B43KzsTgRGgBEHar5CZ4",
+        "locationConfidence" : 0.7562466
+      }, {
+        "latitudeE7" : 403046508,
+        "longitudeE7" : 696292512,
+        "placeId" : "ChIJ1fhbOXOzsTgROuFI6oEg4zY",
+        "locationConfidence" : 0.62190604
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 402780078,
+        "longitudeE7" : 696130777
+      },
+      "endLocation" : {
+        "latitudeE7" : 402150054,
+        "longitudeE7" : 695193797
+      },
+      "duration" : {
+        "startTimestampMs" : "1575288014294",
+        "endTimestampMs" : "1575361758126"
+      },
+      "distance" : 26004,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 54.49207425117493
+      }, {
+        "activityType" : "STILL",
+        "probability" : 26.587897539138794
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.710304647684097
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 402780532,
+          "lngE7" : 696130294
+        }, {
+          "latE7" : 402506599,
+          "lngE7" : 695898132
+        }, {
+          "latE7" : 402150154,
+          "lngE7" : 695193481
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575361758162",
+        "location" : {
+          "latitudeE7" : 401679421,
+          "longitudeE7" : 695005697,
+          "accuracyMetres" : 132
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401671708,
+        "longitudeE7" : 694993776,
+        "placeId" : "ChIJCS8agGyvsTgRqGvH_Kl5aQc",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "Militsiya",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 33.441326
+      },
+      "duration" : {
+        "startTimestampMs" : "1575361758126",
+        "endTimestampMs" : "1575372885313"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401657267,
+      "centerLngE7" : 694976389,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401645062,
+        "longitudeE7" : 694961496,
+        "placeId" : "ChIJ98KyfWmvsTgRK_yosWwy6DE",
+        "locationConfidence" : 14.39352
+      }, {
+        "latitudeE7" : 401676812,
+        "longitudeE7" : 694996512,
+        "placeId" : "ChIJA096hmyvsTgRFcLYMK4TFwA",
+        "locationConfidence" : 14.12576
+      }, {
+        "latitudeE7" : 401670159,
+        "longitudeE7" : 694999082,
+        "placeId" : "ChIJk3qkvCmvsTgRJRtBLSfwqrU",
+        "locationConfidence" : 7.609049
+      }, {
+        "latitudeE7" : 401671731,
+        "longitudeE7" : 695003211,
+        "placeId" : "ChIJLbJLYmuvsTgRZN5-zxzbNLs",
+        "locationConfidence" : 7.564472
+      }, {
+        "latitudeE7" : 401677245,
+        "longitudeE7" : 694998909,
+        "placeId" : "ChIJ3X4GhWyvsTgROfJWB6dreKQ",
+        "locationConfidence" : 7.377268
+      }, {
+        "latitudeE7" : 401669535,
+        "longitudeE7" : 694998765,
+        "placeId" : "ChIJrQmHfGuvsTgRXYQ5IhBu4ZY",
+        "locationConfidence" : 6.176896
+      }, {
+        "latitudeE7" : 401653358,
+        "longitudeE7" : 695012444,
+        "placeId" : "ChIJuaigJmuvsTgRFVD34y2XSfQ",
+        "locationConfidence" : 2.6284974
+      }, {
+        "latitudeE7" : 401661142,
+        "longitudeE7" : 695014322,
+        "placeId" : "ChIJW8e2OWuvsTgRgGrkgi9KxNg",
+        "locationConfidence" : 2.5236425
+      }, {
+        "latitudeE7" : 401658198,
+        "longitudeE7" : 695013541,
+        "placeId" : "ChIJBRmtFGCvsTgRpsgVqEf5a-Q",
+        "locationConfidence" : 2.1440082
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401659145,
+        "longitudeE7" : 694968891
+      },
+      "endLocation" : {
+        "latitudeE7" : 401599837,
+        "longitudeE7" : 694514526
+      },
+      "duration" : {
+        "startTimestampMs" : "1575372885313",
+        "endTimestampMs" : "1575375888969"
+      },
+      "distance" : 3916,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 56.58466815948486
+      }, {
+        "activityType" : "STILL",
+        "probability" : 31.917080283164978
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.417405396699905
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401655426,
+          "lngE7" : 694972534
+        }, {
+          "latE7" : 401614608,
+          "lngE7" : 694701004
+        }, {
+          "latE7" : 401598091,
+          "lngE7" : 694514999
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575375888969",
+        "location" : {
+          "latitudeE7" : 401599837,
+          "longitudeE7" : 694514526,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 35.383022
+      },
+      "duration" : {
+        "startTimestampMs" : "1575375888969",
+        "endTimestampMs" : "1575417192068"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401600575,
+      "centerLngE7" : 694522875,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 34.629192
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 10.705547
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 8.774664
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 7.645326
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 2.862248
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 30.514257
+      },
+      "duration" : {
+        "startTimestampMs" : "1575417192068",
+        "endTimestampMs" : "1575419351351"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401580133,
+      "centerLngE7" : 694562900,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 27.834389
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 12.424445
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 11.359506
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 5.9655766
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 4.4041553
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 4.259705
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 3.2379668
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "endLocation" : {
+        "latitudeE7" : 401674599,
+        "longitudeE7" : 695034152
+      },
+      "duration" : {
+        "startTimestampMs" : "1575419351351",
+        "endTimestampMs" : "1575454713800"
+      },
+      "distance" : 4168,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.500211238861084
+      }, {
+        "activityType" : "STILL",
+        "probability" : 27.221405506134033
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.517294228076935
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        }, {
+          "latE7" : 401578483,
+          "lngE7" : 694563522
+        }, {
+          "latE7" : 401578407,
+          "lngE7" : 694562835
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575454529444",
+        "location" : {
+          "latitudeE7" : 401632761,
+          "longitudeE7" : 694933017,
+          "accuracyMetres" : 152
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401632761,
+        "longitudeE7" : 694933017
+      },
+      "endLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "duration" : {
+        "startTimestampMs" : "1575454713800",
+        "endTimestampMs" : "1575463685421"
+      },
+      "distance" : 3715,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 50.824928283691406
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.70129632949829
+      }, {
+        "activityType" : "STILL",
+        "probability" : 17.234107851982117
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401632766,
+          "lngE7" : 694933242
+        }, {
+          "latE7" : 401629028,
+          "lngE7" : 694766159
+        }, {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 30.538492
+      },
+      "duration" : {
+        "startTimestampMs" : "1575463685421",
+        "endTimestampMs" : "1575468095379"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401581150,
+      "centerLngE7" : 694562900,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 24.836374
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 8.806126
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 8.225158
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 8.119418
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 7.4424343
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 6.5740604
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 5.4579387
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401614482,
+        "longitudeE7" : 694460439,
+        "placeId" : "ChIJ_ZdjkQKlsTgRxqTlKe-s9O8",
+        "address" : "Proletarsk\nТоҷикистон",
+        "name" : "Ulitsa Mallaboyev 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 33.578976
+      },
+      "duration" : {
+        "startTimestampMs" : "1575503485939",
+        "endTimestampMs" : "1575512171990"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401610400,
+      "centerLngE7" : 694464200,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401589545,
+        "longitudeE7" : 694446015,
+        "placeId" : "ChIJO7pnW7qlsTgRSzUPzfe9PzU",
+        "locationConfidence" : 25.874949
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 24.229177
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 16.3169
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 41.398006
+      },
+      "duration" : {
+        "startTimestampMs" : "1575512171990",
+        "endTimestampMs" : "1575526590112"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401600000,
+      "centerLngE7" : 694523800,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 31.606527
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 7.9007616
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 7.4691954
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 6.7029047
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 4.922603
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401599837,
+        "longitudeE7" : 694514526
+      },
+      "endLocation" : {
+        "latitudeE7" : 401609294,
+        "longitudeE7" : 694466109
+      },
+      "duration" : {
+        "startTimestampMs" : "1575526590112",
+        "endTimestampMs" : "1575597789432"
+      },
+      "distance" : 424,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 40.42816758155823
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.449633598327637
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.414063453674316
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401598091,
+          "lngE7" : 694514999
+        }, {
+          "latE7" : 401596832,
+          "lngE7" : 694503326
+        }, {
+          "latE7" : 401612892,
+          "lngE7" : 694464797
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575597789432",
+        "location" : {
+          "latitudeE7" : 401609294,
+          "longitudeE7" : 694466109,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 31.646467
+      },
+      "duration" : {
+        "startTimestampMs" : "1575597789432",
+        "endTimestampMs" : "1575620690077"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401584242,
+      "centerLngE7" : 694562943,
+      "visitConfidence" : 58,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 23.4393
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 10.2018385
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 8.951286
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 8.523938
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 8.277718
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 4.7239833
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 4.235468
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401609294,
+        "longitudeE7" : 694466109
+      },
+      "endLocation" : {
+        "latitudeE7" : 401632761,
+        "longitudeE7" : 694933017
+      },
+      "duration" : {
+        "startTimestampMs" : "1575620690077",
+        "endTimestampMs" : "1575627915524"
+      },
+      "distance" : 4000,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 45.00940442085266
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 33.254680037498474
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.282021343708038
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        }, {
+          "latE7" : 401625823,
+          "lngE7" : 694754791
+        }, {
+          "latE7" : 401632766,
+          "lngE7" : 694933242
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575627918027",
+        "location" : {
+          "latitudeE7" : 401632761,
+          "longitudeE7" : 694933017,
+          "accuracyMetres" : 158
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401622761,
+        "longitudeE7" : 694949895,
+        "placeId" : "ChIJuVKY6WmvsTgRaylAJGpXIfU",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "Школа №27",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 19.518593
+      },
+      "duration" : {
+        "startTimestampMs" : "1575627915524",
+        "endTimestampMs" : "1575632828174"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401633880,
+      "centerLngE7" : 694934500,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401645062,
+        "longitudeE7" : 694961496,
+        "placeId" : "ChIJ98KyfWmvsTgRK_yosWwy6DE",
+        "locationConfidence" : 18.813007
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 15.037629
+      }, {
+        "latitudeE7" : 401610400,
+        "longitudeE7" : 694926030,
+        "placeId" : "ChIJ4RziJ2ivsTgRrB229V4llTw",
+        "locationConfidence" : 13.692264
+      }, {
+        "latitudeE7" : 401619153,
+        "longitudeE7" : 694945583,
+        "placeId" : "ChIJ8RG43GmvsTgROkTAJRc_P6Q",
+        "locationConfidence" : 13.681554
+      }, {
+        "latitudeE7" : 401629671,
+        "longitudeE7" : 694908613,
+        "placeId" : "ChIJM-5FXqCvsTgR2uP_5pmuPTM",
+        "locationConfidence" : 7.922411
+      }, {
+        "latitudeE7" : 401633063,
+        "longitudeE7" : 694920605,
+        "placeId" : "ChIJ7615X2ivsTgRjfdBn9s1FU0",
+        "locationConfidence" : 3.305511
+      }, {
+        "latitudeE7" : 401628418,
+        "longitudeE7" : 694901589,
+        "placeId" : "ChIJjdn41GevsTgRVs-7yFvLQUI",
+        "locationConfidence" : 3.24419
+      }, {
+        "latitudeE7" : 401629886,
+        "longitudeE7" : 694899242,
+        "placeId" : "ChIJHxUu5SivsTgRQzdsk1kXtbo",
+        "locationConfidence" : 2.5642273
+      }, {
+        "latitudeE7" : 401619872,
+        "longitudeE7" : 694881000,
+        "placeId" : "ChIJk7bGjwuvsTgRozVvJyzdiRY",
+        "locationConfidence" : 1.3184829
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401632761,
+        "longitudeE7" : 694933017
+      },
+      "endLocation" : {
+        "latitudeE7" : 401610469,
+        "longitudeE7" : 694658118
+      },
+      "duration" : {
+        "startTimestampMs" : "1575632828174",
+        "endTimestampMs" : "1575634579488"
+      },
+      "distance" : 2395,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 54.56460118293762
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 24.447262287139893
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.299098074436188
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401632766,
+          "lngE7" : 694933242
+        }, {
+          "latE7" : 401630935,
+          "lngE7" : 694772720
+        }, {
+          "latE7" : 401610374,
+          "lngE7" : 694658126
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632067,
+          "lngE7" : 694778518,
+          "timestampMs" : "1575633785121",
+          "accuracyMeters" : 33
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401616516,
+        "longitudeE7" : 694665222,
+        "placeId" : "ChIJO0ADhI6lsTgRVvdBhusB7M0",
+        "address" : "А.Кодиров\nProletarsk\nТоҷикистон",
+        "name" : "А.Кодиров",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 21.88341
+      },
+      "duration" : {
+        "startTimestampMs" : "1575634579488",
+        "endTimestampMs" : "1575635089990"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401609760,
+      "centerLngE7" : 694653200,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401617882,
+        "longitudeE7" : 694700074,
+        "placeId" : "ChIJn3ppgo6lsTgRHAxVlL4-bsY",
+        "locationConfidence" : 15.916219
+      }, {
+        "latitudeE7" : 401613009,
+        "longitudeE7" : 694714142,
+        "placeId" : "ChIJA6y3EIylsTgR2Njxw7--VYQ",
+        "locationConfidence" : 15.803379
+      }, {
+        "latitudeE7" : 401612717,
+        "longitudeE7" : 694712627,
+        "placeId" : "ChIJR2NrF4ylsTgR0V9GBjKTOwg",
+        "locationConfidence" : 15.539368
+      }, {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 11.981077
+      }, {
+        "latitudeE7" : 401606151,
+        "longitudeE7" : 694631141,
+        "placeId" : "ChIJPw8byFClsTgREXFDEFEqK2g",
+        "locationConfidence" : 10.281886
+      }, {
+        "latitudeE7" : 401612963,
+        "longitudeE7" : 694713326,
+        "placeId" : "ChIJd4BPF4ylsTgRAg2DERvRt_Y",
+        "locationConfidence" : 6.8026586
+      }, {
+        "latitudeE7" : 401612622,
+        "longitudeE7" : 694705211,
+        "placeId" : "ChIJM8p6hoKlsTgRd6631YWtWKU",
+        "locationConfidence" : 1.7920045
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401611218,
+        "longitudeE7" : 694651390
+      },
+      "endLocation" : {
+        "latitudeE7" : 401611672,
+        "longitudeE7" : 694462384
+      },
+      "duration" : {
+        "startTimestampMs" : "1575635089990",
+        "endTimestampMs" : "1575676418073"
+      },
+      "distance" : 1945,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 47.70573377609253
+      }, {
+        "activityType" : "STILL",
+        "probability" : 22.527477145195007
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.918953955173492
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401610260,
+          "lngE7" : 694651412
+        }, {
+          "latE7" : 401606292,
+          "lngE7" : 694578704
+        }, {
+          "latE7" : 401613082,
+          "lngE7" : 694462585
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401602589,
+        "longitudeE7" : 694529423
+      },
+      "endLocation" : {
+        "latitudeE7" : 401611672,
+        "longitudeE7" : 694462384
+      },
+      "duration" : {
+        "startTimestampMs" : "1575676418073",
+        "endTimestampMs" : "1575705173948"
+      },
+      "distance" : 578,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 40.6469464302063
+      }, {
+        "activityType" : "STILL",
+        "probability" : 24.517229199409485
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 18.537665903568268
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401602745,
+          "lngE7" : 694527740
+        }, {
+          "latE7" : 401598625,
+          "lngE7" : 694518356
+        }, {
+          "latE7" : 401613082,
+          "lngE7" : 694462585
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575705173948",
+        "location" : {
+          "latitudeE7" : 401611672,
+          "longitudeE7" : 694462384,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401611672,
+        "longitudeE7" : 694462384
+      },
+      "endLocation" : {
+        "latitudeE7" : 401581150,
+        "longitudeE7" : 694562900
+      },
+      "duration" : {
+        "startTimestampMs" : "1575705173948",
+        "endTimestampMs" : "1575719833831"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401610469,
+          "lngE7" : 694658118,
+          "timestampMs" : "1575713326763",
+          "accuracyMeters" : 128
+        }, {
+          "latE7" : 401617103,
+          "lngE7" : 694721839,
+          "timestampMs" : "1575713448084",
+          "accuracyMeters" : 68
+        }, {
+          "latE7" : 401616355,
+          "lngE7" : 694715741,
+          "timestampMs" : "1575713568856",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "address" : "Muhiddinov Rd\nProletarsk\nTajikistan",
+        "name" : "Muhiddinov Road",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 27.143652
+      },
+      "duration" : {
+        "startTimestampMs" : "1575719833831",
+        "endTimestampMs" : "1575775204981"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401581150,
+      "centerLngE7" : 694562900,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 26.287613
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 11.329643
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 8.476035
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 7.34178
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.1590047
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 6.671052
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 5.591221
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401578107,
+        "longitudeE7" : 694562943
+      },
+      "endLocation" : {
+        "latitudeE7" : 401579652,
+        "longitudeE7" : 694570654
+      },
+      "duration" : {
+        "startTimestampMs" : "1575775204981",
+        "endTimestampMs" : "1575779221743"
+      },
+      "distance" : 1006,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 33.30948054790497
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.713880240917206
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 16.621772944927216
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578407,
+          "lngE7" : 694562835
+        }, {
+          "latE7" : 401586799,
+          "lngE7" : 694580078
+        }, {
+          "latE7" : 401605987,
+          "lngE7" : 694576492
+        }, {
+          "latE7" : 401581954,
+          "lngE7" : 694590988
+        }, {
+          "latE7" : 401579513,
+          "lngE7" : 694571762
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575779282122",
+        "location" : {
+          "latitudeE7" : 401579652,
+          "longitudeE7" : 694570654,
+          "accuracyMetres" : 89
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401579652,
+        "longitudeE7" : 694570654
+      },
+      "endLocation" : {
+        "latitudeE7" : 401579652,
+        "longitudeE7" : 694570654
+      },
+      "duration" : {
+        "startTimestampMs" : "1575779221743",
+        "endTimestampMs" : "1575804045815"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401604383,
+          "lngE7" : 694576881,
+          "timestampMs" : "1575779829952",
+          "accuracyMeters" : 68
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401579652,
+        "longitudeE7" : 694570654
+      },
+      "endLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "duration" : {
+        "startTimestampMs" : "1575804045815",
+        "endTimestampMs" : "1575844151083"
+      },
+      "distance" : 2238,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 44.04734671115875
+      }, {
+        "activityType" : "STILL",
+        "probability" : 17.48114824295044
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.455078125
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401579399,
+          "lngE7" : 694570693
+        }, {
+          "latE7" : 401599388,
+          "lngE7" : 694577407
+        }, {
+          "latE7" : 401597213,
+          "lngE7" : 694509429
+        }, {
+          "latE7" : 401580886,
+          "lngE7" : 694531555
+        }, {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401598473,
+          "lngE7" : 694513474,
+          "timestampMs" : "1575807577942",
+          "accuracyMeters" : 92
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575844151083",
+        "location" : {
+          "latitudeE7" : 401584242,
+          "longitudeE7" : 694562943,
+          "accuracyMetres" : 142
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 44.854618
+      },
+      "duration" : {
+        "startTimestampMs" : "1575877424688",
+        "endTimestampMs" : "1575884196368"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401580487,
+      "centerLngE7" : 694559218,
+      "visitConfidence" : 59,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 12.91641
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 10.25145
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 9.546471
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 8.285706
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 7.49519
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 6.6501555
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401641634,
+        "longitudeE7" : 694453225
+      },
+      "endLocation" : {
+        "latitudeE7" : 401674599,
+        "longitudeE7" : 695034152
+      },
+      "duration" : {
+        "startTimestampMs" : "1575884196368",
+        "endTimestampMs" : "1575886682776"
+      },
+      "distance" : 5222,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 58.8723361492157
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 21.95993661880493
+      }, {
+        "activityType" : "STILL",
+        "probability" : 13.565853238105774
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401643981,
+          "lngE7" : 694452056
+        }, {
+          "latE7" : 401626853,
+          "lngE7" : 694758453
+        }, {
+          "latE7" : 401674118,
+          "lngE7" : 695034179
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575886532198",
+        "location" : {
+          "latitudeE7" : 401632761,
+          "longitudeE7" : 694933017,
+          "accuracyMetres" : 147
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401645062,
+        "longitudeE7" : 694961496,
+        "placeId" : "ChIJ98KyfWmvsTgRK_yosWwy6DE",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "АЗС",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 22.31452
+      },
+      "duration" : {
+        "startTimestampMs" : "1575886682776",
+        "endTimestampMs" : "1575892103849"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401627820,
+      "centerLngE7" : 694936920,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401633063,
+        "longitudeE7" : 694920605,
+        "placeId" : "ChIJ7615X2ivsTgRjfdBn9s1FU0",
+        "locationConfidence" : 18.574823
+      }, {
+        "latitudeE7" : 401622761,
+        "longitudeE7" : 694949895,
+        "placeId" : "ChIJuVKY6WmvsTgRaylAJGpXIfU",
+        "locationConfidence" : 16.926931
+      }, {
+        "latitudeE7" : 401619153,
+        "longitudeE7" : 694945583,
+        "placeId" : "ChIJ8RG43GmvsTgROkTAJRc_P6Q",
+        "locationConfidence" : 16.12203
+      }, {
+        "latitudeE7" : 401610400,
+        "longitudeE7" : 694926030,
+        "placeId" : "ChIJ4RziJ2ivsTgRrB229V4llTw",
+        "locationConfidence" : 9.006308
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 8.167653
+      }, {
+        "latitudeE7" : 401629671,
+        "longitudeE7" : 694908613,
+        "placeId" : "ChIJM-5FXqCvsTgR2uP_5pmuPTM",
+        "locationConfidence" : 4.844769
+      }, {
+        "latitudeE7" : 401628418,
+        "longitudeE7" : 694901589,
+        "placeId" : "ChIJjdn41GevsTgRVs-7yFvLQUI",
+        "locationConfidence" : 2.1403978
+      }, {
+        "latitudeE7" : 401619872,
+        "longitudeE7" : 694881000,
+        "placeId" : "ChIJk7bGjwuvsTgRozVvJyzdiRY",
+        "locationConfidence" : 1.2607241
+      }, {
+        "latitudeE7" : 401644112,
+        "longitudeE7" : 694959041,
+        "placeId" : "ChIJ__PfN7avsTgRcwBH-lOO6aI",
+        "locationConfidence" : 0.6418432
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401620596,
+        "longitudeE7" : 694942821
+      },
+      "endLocation" : {
+        "latitudeE7" : 401615295,
+        "longitudeE7" : 694713343
+      },
+      "duration" : {
+        "startTimestampMs" : "1575892103849",
+        "endTimestampMs" : "1575893363102"
+      },
+      "distance" : 1990,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 53.100305795669556
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.09010469913483
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.060862213373184
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401632766,
+          "lngE7" : 694933242
+        }, {
+          "latE7" : 401630935,
+          "lngE7" : 694772720
+        }, {
+          "latE7" : 401615180,
+          "lngE7" : 694713363
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632067,
+          "lngE7" : 694778518,
+          "timestampMs" : "1575893119510",
+          "accuracyMeters" : 28
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401612717,
+        "longitudeE7" : 694712627,
+        "placeId" : "ChIJR2NrF4ylsTgR0V9GBjKTOwg",
+        "address" : "Proletarsk\nТоҷикистон",
+        "name" : "Tsentr",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 60.201763
+      },
+      "duration" : {
+        "startTimestampMs" : "1575893363102",
+        "endTimestampMs" : "1575893727373"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401615125,
+      "centerLngE7" : 694712300,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401617888,
+        "longitudeE7" : 694738930,
+        "placeId" : "ChIJxVUN6IulsTgRI1un-KL-0qo",
+        "locationConfidence" : 9.73412
+      }, {
+        "latitudeE7" : 401613009,
+        "longitudeE7" : 694714142,
+        "placeId" : "ChIJA6y3EIylsTgR2Njxw7--VYQ",
+        "locationConfidence" : 5.152859
+      }, {
+        "latitudeE7" : 401616516,
+        "longitudeE7" : 694665222,
+        "placeId" : "ChIJO0ADhI6lsTgRVvdBhusB7M0",
+        "locationConfidence" : 5.0205564
+      }, {
+        "latitudeE7" : 401614495,
+        "longitudeE7" : 694713881,
+        "placeId" : "ChIJsz6LyualsTgRTuFcvvu7NAM",
+        "locationConfidence" : 4.5504494
+      }, {
+        "latitudeE7" : 401637232,
+        "longitudeE7" : 694705139,
+        "placeId" : "ChIJG4aW5Y6lsTgRiCVpddFSQno",
+        "locationConfidence" : 3.1614587
+      }, {
+        "latitudeE7" : 401616027,
+        "longitudeE7" : 694714139,
+        "placeId" : "ChIJ1wiJCIylsTgR0fhbHsx9yKg",
+        "locationConfidence" : 2.9132383
+      }, {
+        "latitudeE7" : 401615996,
+        "longitudeE7" : 694701469,
+        "placeId" : "ChIJj0hfKIylsTgRIaVa4VVC6z4",
+        "locationConfidence" : 2.3588045
+      }, {
+        "latitudeE7" : 401638899,
+        "longitudeE7" : 694709977,
+        "placeId" : "ChIJOfaA546lsTgR_AUCiJVBWMo",
+        "locationConfidence" : 2.1174939
+      }, {
+        "latitudeE7" : 401612963,
+        "longitudeE7" : 694713326,
+        "placeId" : "ChIJd4BPF4ylsTgRAg2DERvRt_Y",
+        "locationConfidence" : 1.9136555
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401615011,
+        "longitudeE7" : 694709250
+      },
+      "endLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "duration" : {
+        "startTimestampMs" : "1575893727373",
+        "endTimestampMs" : "1575906814622"
+      },
+      "distance" : 3475,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 52.76905298233032
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 15.450608730316162
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.529413402080536
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401614837,
+          "lngE7" : 694709243
+        }, {
+          "latE7" : 401613845,
+          "lngE7" : 694683303
+        }, {
+          "latE7" : 401600723,
+          "lngE7" : 694533843
+        }, {
+          "latE7" : 401598625,
+          "lngE7" : 694518356
+        }, {
+          "latE7" : 401570701,
+          "lngE7" : 694502487
+        }, {
+          "latE7" : 401576995,
+          "lngE7" : 694551773
+        }, {
+          "latE7" : 401579399,
+          "lngE7" : 694570693
+        }, {
+          "latE7" : 401586799,
+          "lngE7" : 694580078
+        }, {
+          "latE7" : 401597862,
+          "lngE7" : 694513626
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401599731,
+          "lngE7" : 694533997,
+          "timestampMs" : "1575895075228",
+          "accuracyMeters" : 64
+        }, {
+          "latE7" : 401572151,
+          "lngE7" : 694502106,
+          "timestampMs" : "1575905119262",
+          "accuracyMeters" : 87
+        }, {
+          "latE7" : 401579666,
+          "lngE7" : 694570618,
+          "timestampMs" : "1575905714043",
+          "accuracyMeters" : 47
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 32.612713
+      },
+      "duration" : {
+        "startTimestampMs" : "1575906814622",
+        "endTimestampMs" : "1575948134954"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401582933,
+      "centerLngE7" : 694561667,
+      "visitConfidence" : 58,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 25.503809
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 9.003538
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 8.323768
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.031912
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 6.8135185
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 5.851402
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 4.85934
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "endLocation" : {
+        "latitudeE7" : 401580487,
+        "longitudeE7" : 694559218
+      },
+      "duration" : {
+        "startTimestampMs" : "1575948134954",
+        "endTimestampMs" : "1575990817706"
+      },
+      "distance" : 52,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 31.779378652572632
+      }, {
+        "activityType" : "STILL",
+        "probability" : 28.682640194892883
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.705699920654297
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        }, {
+          "latE7" : 401578292,
+          "lngE7" : 694561996
+        }, {
+          "latE7" : 401578025,
+          "lngE7" : 694559783
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1575990817706",
+        "location" : {
+          "latitudeE7" : 401580487,
+          "longitudeE7" : 694559218,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 31.143599
+      },
+      "duration" : {
+        "startTimestampMs" : "1575990817706",
+        "endTimestampMs" : "1576041352804"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401582300,
+      "centerLngE7" : 694561050,
+      "visitConfidence" : 59,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 25.951427
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 8.969006
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 8.108739
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.2287807
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 6.8970733
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 6.497702
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 5.2036724
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401580487,
+        "longitudeE7" : 694559218
+      },
+      "endLocation" : {
+        "latitudeE7" : 401605137,
+        "longitudeE7" : 694626257
+      },
+      "duration" : {
+        "startTimestampMs" : "1576041352804",
+        "endTimestampMs" : "1576062808685"
+      },
+      "distance" : 632,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 37.64638304710388
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.813713669776917
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.03859281539917
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578025,
+          "lngE7" : 694559783
+        }, {
+          "latE7" : 401606292,
+          "lngE7" : 694578704
+        }, {
+          "latE7" : 401610031,
+          "lngE7" : 694626235
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576062808685",
+        "location" : {
+          "latitudeE7" : 401605137,
+          "longitudeE7" : 694626257,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 28.907043
+      },
+      "duration" : {
+        "startTimestampMs" : "1576062808685",
+        "endTimestampMs" : "1576124589901"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401582300,
+      "centerLngE7" : 694561050,
+      "visitConfidence" : 61,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 25.857582
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 9.039557
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 8.690083
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 8.328722
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 8.149568
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 6.1492553
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 4.8781896
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401605137,
+        "longitudeE7" : 694626257
+      },
+      "endLocation" : {
+        "latitudeE7" : 401612361,
+        "longitudeE7" : 694466109
+      },
+      "duration" : {
+        "startTimestampMs" : "1576124589901",
+        "endTimestampMs" : "1576169280973"
+      },
+      "distance" : 1363,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.523441553115845
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.173696875572205
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 18.745125830173492
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401610031,
+          "lngE7" : 694626235
+        }, {
+          "latE7" : 401581954,
+          "lngE7" : 694590988
+        }, {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576169280973",
+        "location" : {
+          "latitudeE7" : 401612361,
+          "longitudeE7" : 694466109,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 31.719994
+      },
+      "duration" : {
+        "startTimestampMs" : "1576169280973",
+        "endTimestampMs" : "1576199156872"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401582300,
+      "centerLngE7" : 694561050,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 24.302061
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 9.380924
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.8645806
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 7.777838
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 6.896266
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 6.649183
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 5.4091535
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401580487,
+        "longitudeE7" : 694559218
+      },
+      "endLocation" : {
+        "latitudeE7" : 401624350,
+        "longitudeE7" : 694946546
+      },
+      "duration" : {
+        "startTimestampMs" : "1576199156872",
+        "endTimestampMs" : "1576232318379"
+      },
+      "distance" : 3378,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.122498989105225
+      }, {
+        "activityType" : "STILL",
+        "probability" : 32.26466774940491
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.24313348531723
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578025,
+          "lngE7" : 694559783
+        }, {
+          "latE7" : 401626853,
+          "lngE7" : 694758453
+        }, {
+          "latE7" : 401632652,
+          "lngE7" : 694932937
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576232263249",
+        "location" : {
+          "latitudeE7" : 401632644,
+          "longitudeE7" : 694932900,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401622761,
+        "longitudeE7" : 694949895,
+        "placeId" : "ChIJuVKY6WmvsTgRaylAJGpXIfU",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "Школа №27",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 18.065474
+      },
+      "duration" : {
+        "startTimestampMs" : "1576232318379",
+        "endTimestampMs" : "1576237264252"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401632600,
+      "centerLngE7" : 694932900,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401645062,
+        "longitudeE7" : 694961496,
+        "placeId" : "ChIJ98KyfWmvsTgRK_yosWwy6DE",
+        "locationConfidence" : 16.306765
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 14.873832
+      }, {
+        "latitudeE7" : 401619153,
+        "longitudeE7" : 694945583,
+        "placeId" : "ChIJ8RG43GmvsTgROkTAJRc_P6Q",
+        "locationConfidence" : 12.354982
+      }, {
+        "latitudeE7" : 401610400,
+        "longitudeE7" : 694926030,
+        "placeId" : "ChIJ4RziJ2ivsTgRrB229V4llTw",
+        "locationConfidence" : 10.119062
+      }, {
+        "latitudeE7" : 401633063,
+        "longitudeE7" : 694920605,
+        "placeId" : "ChIJ7615X2ivsTgRjfdBn9s1FU0",
+        "locationConfidence" : 7.392858
+      }, {
+        "latitudeE7" : 401629671,
+        "longitudeE7" : 694908613,
+        "placeId" : "ChIJM-5FXqCvsTgR2uP_5pmuPTM",
+        "locationConfidence" : 6.7635183
+      }, {
+        "latitudeE7" : 401616652,
+        "longitudeE7" : 694890913,
+        "placeId" : "ChIJidizwWevsTgRuvh5wukCtpk",
+        "locationConfidence" : 6.236112
+      }, {
+        "latitudeE7" : 401628418,
+        "longitudeE7" : 694901589,
+        "placeId" : "ChIJjdn41GevsTgRVs-7yFvLQUI",
+        "locationConfidence" : 2.7800367
+      }, {
+        "latitudeE7" : 401629886,
+        "longitudeE7" : 694899242,
+        "placeId" : "ChIJHxUu5SivsTgRQzdsk1kXtbo",
+        "locationConfidence" : 1.9848094
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401632644,
+        "longitudeE7" : 694932900
+      },
+      "endLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "duration" : {
+        "startTimestampMs" : "1576237264252",
+        "endTimestampMs" : "1576247548481"
+      },
+      "distance" : 3242,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 53.84327173233032
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 27.298828959465027
+      }, {
+        "activityType" : "STILL",
+        "probability" : 10.108540952205658
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401632652,
+          "lngE7" : 694932937
+        }, {
+          "latE7" : 401629028,
+          "lngE7" : 694766159
+        }, {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632067,
+          "lngE7" : 694778518,
+          "timestampMs" : "1576238265716",
+          "accuracyMeters" : 23
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "address" : "Muhiddinov Rd\nProletarsk\nTajikistan",
+        "name" : "Muhiddinov Road",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 26.558512
+      },
+      "duration" : {
+        "startTimestampMs" : "1576247548481",
+        "endTimestampMs" : "1576291518954"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401582933,
+      "centerLngE7" : 694561667,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 26.14476
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 10.577884
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 8.399152
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 8.042323
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 7.4776874
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 6.9898376
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 5.809844
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "endLocation" : {
+        "latitudeE7" : 401580487,
+        "longitudeE7" : 694559218
+      },
+      "duration" : {
+        "startTimestampMs" : "1576291518954",
+        "endTimestampMs" : "1576331666126"
+      },
+      "distance" : 52,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 36.462727189064026
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.97506332397461
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 19.793926179409027
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        }, {
+          "latE7" : 401626853,
+          "lngE7" : 694758453
+        }, {
+          "latE7" : 401674385,
+          "lngE7" : 695040206
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576331666126",
+        "location" : {
+          "latitudeE7" : 401580487,
+          "longitudeE7" : 694559218,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "address" : "Muhiddinov Rd\nProletarsk\nTajikistan",
+        "name" : "Muhiddinov Road",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 26.789331
+      },
+      "duration" : {
+        "startTimestampMs" : "1576331666126",
+        "endTimestampMs" : "1576370604226"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401582300,
+      "centerLngE7" : 694561050,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 25.610373
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 12.040779
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 8.506619
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 7.284967
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.2266173
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 6.552245
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 5.9890685
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 52.94957
+      },
+      "duration" : {
+        "startTimestampMs" : "1576370604226",
+        "endTimestampMs" : "1576382922480"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401587530,
+      "centerLngE7" : 694578372,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 14.907797
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 7.3645606
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.2224374
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 6.719112
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 5.577914
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 5.2586083
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401605137,
+        "longitudeE7" : 694626257
+      },
+      "endLocation" : {
+        "latitudeE7" : 401584242,
+        "longitudeE7" : 694562943
+      },
+      "duration" : {
+        "startTimestampMs" : "1576382922480",
+        "endTimestampMs" : "1576442741148"
+      },
+      "distance" : 11405,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 47.894278168678284
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.176045298576355
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 19.464199244976044
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401610031,
+          "lngE7" : 694626235
+        }, {
+          "latE7" : 401626853,
+          "lngE7" : 694758453
+        }, {
+          "latE7" : 401674118,
+          "lngE7" : 695034484
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632067,
+          "lngE7" : 694778518,
+          "timestampMs" : "1576388958795",
+          "accuracyMeters" : 37
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576442741148",
+        "location" : {
+          "latitudeE7" : 401584242,
+          "longitudeE7" : 694562943,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 33.675674
+      },
+      "duration" : {
+        "startTimestampMs" : "1576442741148",
+        "endTimestampMs" : "1576491363071"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401582300,
+      "centerLngE7" : 694561050,
+      "visitConfidence" : 67,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 26.841383
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 8.488122
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 8.268059
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.1624236
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 7.158705
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 4.684219
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 3.7214143
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401580487,
+        "longitudeE7" : 694559218
+      },
+      "endLocation" : {
+        "latitudeE7" : 401620596,
+        "longitudeE7" : 694942821
+      },
+      "duration" : {
+        "startTimestampMs" : "1576491363071",
+        "endTimestampMs" : "1576494628870"
+      },
+      "distance" : 4169,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 37.83903419971466
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.770277976989746
+      }, {
+        "activityType" : "STILL",
+        "probability" : 21.43654227256775
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401598320,
+          "lngE7" : 694509353
+        }, {
+          "latE7" : 401629028,
+          "lngE7" : 694766159
+        }, {
+          "latE7" : 401624069,
+          "lngE7" : 694940338
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401622761,
+        "longitudeE7" : 694949895,
+        "placeId" : "ChIJuVKY6WmvsTgRaylAJGpXIfU",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "Школа №27",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 30.25177
+      },
+      "duration" : {
+        "startTimestampMs" : "1576494628870",
+        "endTimestampMs" : "1576498133145"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401624533,
+      "centerLngE7" : 694939500,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401619153,
+        "longitudeE7" : 694945583,
+        "placeId" : "ChIJ8RG43GmvsTgROkTAJRc_P6Q",
+        "locationConfidence" : 19.940266
+      }, {
+        "latitudeE7" : 401645062,
+        "longitudeE7" : 694961496,
+        "placeId" : "ChIJ98KyfWmvsTgRK_yosWwy6DE",
+        "locationConfidence" : 16.037588
+      }, {
+        "latitudeE7" : 401610400,
+        "longitudeE7" : 694926030,
+        "placeId" : "ChIJ4RziJ2ivsTgRrB229V4llTw",
+        "locationConfidence" : 12.455763
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 9.278919
+      }, {
+        "latitudeE7" : 401629671,
+        "longitudeE7" : 694908613,
+        "placeId" : "ChIJM-5FXqCvsTgR2uP_5pmuPTM",
+        "locationConfidence" : 6.7053356
+      }, {
+        "latitudeE7" : 401633063,
+        "longitudeE7" : 694920605,
+        "placeId" : "ChIJ7615X2ivsTgRjfdBn9s1FU0",
+        "locationConfidence" : 3.611997
+      }, {
+        "latitudeE7" : 401619872,
+        "longitudeE7" : 694881000,
+        "placeId" : "ChIJk7bGjwuvsTgRozVvJyzdiRY",
+        "locationConfidence" : 1.2648951
+      }, {
+        "latitudeE7" : 401644112,
+        "longitudeE7" : 694959041,
+        "placeId" : "ChIJ__PfN7avsTgRcwBH-lOO6aI",
+        "locationConfidence" : 0.45346475
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401620596,
+        "longitudeE7" : 694942821
+      },
+      "endLocation" : {
+        "latitudeE7" : 401611732,
+        "longitudeE7" : 694495904
+      },
+      "duration" : {
+        "startTimestampMs" : "1576498133145",
+        "endTimestampMs" : "1576515825630"
+      },
+      "distance" : 3921,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 47.65247404575348
+      }, {
+        "activityType" : "STILL",
+        "probability" : 23.846569657325745
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.251946687698364
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401632652,
+          "lngE7" : 694932937
+        }, {
+          "latE7" : 401629028,
+          "lngE7" : 694766159
+        }, {
+          "latE7" : 401609916,
+          "lngE7" : 694492874
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632067,
+          "lngE7" : 694778518,
+          "timestampMs" : "1576498996044",
+          "accuracyMeters" : 77
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "address" : "Muhiddinov Rd\nProletarsk\nTajikistan",
+        "name" : "Muhiddinov Road",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 27.648727
+      },
+      "duration" : {
+        "startTimestampMs" : "1576515825630",
+        "endTimestampMs" : "1576547429693"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401582300,
+      "centerLngE7" : 694561050,
+      "visitConfidence" : 60,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 24.201881
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 10.2302475
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 9.805127
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 7.6116805
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 7.506232
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 7.2771354
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 5.7189693
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401611732,
+        "longitudeE7" : 694495904
+      },
+      "endLocation" : {
+        "latitudeE7" : 401615033,
+        "longitudeE7" : 694709345
+      },
+      "duration" : {
+        "startTimestampMs" : "1576547429693",
+        "endTimestampMs" : "1576550294423"
+      },
+      "distance" : 1814,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.4756475687027
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 26.72220468521118
+      }, {
+        "activityType" : "STILL",
+        "probability" : 20.273330807685852
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401578559,
+          "lngE7" : 694564132
+        }, {
+          "latE7" : 401613845,
+          "lngE7" : 694683303
+        }, {
+          "latE7" : 401614837,
+          "lngE7" : 694709320
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576550261794",
+        "location" : {
+          "latitudeE7" : 401615033,
+          "longitudeE7" : 694709345,
+          "accuracyMetres" : 83
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401614495,
+        "longitudeE7" : 694713881,
+        "placeId" : "ChIJsz6LyualsTgRTuFcvvu7NAM",
+        "address" : "Unnamed Road\nПролетарск\nТаджикистан",
+        "name" : "Azizi Moliya",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 15.286931
+      },
+      "duration" : {
+        "startTimestampMs" : "1576550294423",
+        "endTimestampMs" : "1576567048206"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401615100,
+      "centerLngE7" : 694712400,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401616516,
+        "longitudeE7" : 694665222,
+        "placeId" : "ChIJO0ADhI6lsTgRVvdBhusB7M0",
+        "locationConfidence" : 15.190445
+      }, {
+        "latitudeE7" : 401612717,
+        "longitudeE7" : 694712627,
+        "placeId" : "ChIJR2NrF4ylsTgR0V9GBjKTOwg",
+        "locationConfidence" : 13.697508
+      }, {
+        "latitudeE7" : 401613009,
+        "longitudeE7" : 694714142,
+        "placeId" : "ChIJA6y3EIylsTgR2Njxw7--VYQ",
+        "locationConfidence" : 12.527391
+      }, {
+        "latitudeE7" : 401615996,
+        "longitudeE7" : 694701469,
+        "placeId" : "ChIJj0hfKIylsTgRIaVa4VVC6z4",
+        "locationConfidence" : 9.812639
+      }, {
+        "latitudeE7" : 401617882,
+        "longitudeE7" : 694700074,
+        "placeId" : "ChIJn3ppgo6lsTgRHAxVlL4-bsY",
+        "locationConfidence" : 6.9312067
+      }, {
+        "latitudeE7" : 401637232,
+        "longitudeE7" : 694705139,
+        "placeId" : "ChIJG4aW5Y6lsTgRiCVpddFSQno",
+        "locationConfidence" : 5.967464
+      }, {
+        "latitudeE7" : 401613464,
+        "longitudeE7" : 694713506,
+        "placeId" : "ChIJuTgdfaelsTgRdqf6DpnS63o",
+        "locationConfidence" : 5.5472116
+      }, {
+        "latitudeE7" : 401616027,
+        "longitudeE7" : 694714139,
+        "placeId" : "ChIJ1wiJCIylsTgR0fhbHsx9yKg",
+        "locationConfidence" : 5.2348876
+      }, {
+        "latitudeE7" : 401612963,
+        "longitudeE7" : 694713326,
+        "placeId" : "ChIJd4BPF4ylsTgRAg2DERvRt_Y",
+        "locationConfidence" : 3.832476
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401601222,
+        "longitudeE7" : 694737987
+      },
+      "endLocation" : {
+        "latitudeE7" : 401631262,
+        "longitudeE7" : 694778052
+      },
+      "duration" : {
+        "startTimestampMs" : "1576567048206",
+        "endTimestampMs" : "1576671487792"
+      },
+      "distance" : 6869,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.177305459976196
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 27.060192823410034
+      }, {
+        "activityType" : "STILL",
+        "probability" : 26.200875639915466
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401601257,
+          "lngE7" : 694738082
+        }, {
+          "latE7" : 401621551,
+          "lngE7" : 694884262
+        }, {
+          "latE7" : 401632156,
+          "lngE7" : 694931869
+        }, {
+          "latE7" : 401631202,
+          "lngE7" : 694777526
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632462,
+          "lngE7" : 694931641,
+          "timestampMs" : "1576664415449",
+          "accuracyMeters" : 33
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576671470495",
+        "location" : {
+          "latitudeE7" : 401631254,
+          "longitudeE7" : 694778135,
+          "accuracyMetres" : 147
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401626304,
+        "longitudeE7" : 694829378
+      },
+      "endLocation" : {
+        "latitudeE7" : 401589689,
+        "longitudeE7" : 694559218
+      },
+      "duration" : {
+        "startTimestampMs" : "1576671487792",
+        "endTimestampMs" : "1576696758075"
+      },
+      "distance" : 2370,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 45.36095857620239
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 27.229440212249756
+      }, {
+        "activityType" : "STILL",
+        "probability" : 20.788270235061646
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401631202,
+          "lngE7" : 694777526
+        }, {
+          "latE7" : 401590499,
+          "lngE7" : 694559097
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401589689,
+        "longitudeE7" : 694559218
+      },
+      "endLocation" : {
+        "latitudeE7" : 401601011,
+        "longitudeE7" : 694603911
+      },
+      "duration" : {
+        "startTimestampMs" : "1576696758075",
+        "endTimestampMs" : "1576720403165"
+      },
+      "distance" : 400,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.60008120536804
+      }, {
+        "activityType" : "STILL",
+        "probability" : 28.449034690856934
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.72671288251877
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401590499,
+          "lngE7" : 694559097
+        }, {
+          "latE7" : 401601066,
+          "lngE7" : 694603347
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401610321,
+        "longitudeE7" : 694670949
+      },
+      "endLocation" : {
+        "latitudeE7" : 401589689,
+        "longitudeE7" : 694559218
+      },
+      "duration" : {
+        "startTimestampMs" : "1576773653112",
+        "endTimestampMs" : "1576776100147"
+      },
+      "distance" : 976,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 60.49047112464905
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.936218738555908
+      }, {
+        "activityType" : "STILL",
+        "probability" : 13.865220546722412
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401610298,
+          "lngE7" : 694671325
+        }, {
+          "latE7" : 401609649,
+          "lngE7" : 694603652
+        }, {
+          "latE7" : 401590499,
+          "lngE7" : 694559097
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 33.00248
+      },
+      "duration" : {
+        "startTimestampMs" : "1576776100147",
+        "endTimestampMs" : "1576777925072"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401596250,
+      "centerLngE7" : 694553600,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 15.999728
+      }, {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 13.596111
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 13.00662
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 6.8746347
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 5.5672936
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 4.495169
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 4.221462
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 3.2365031
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 38.36768
+      },
+      "duration" : {
+        "startTimestampMs" : "1576778049132",
+        "endTimestampMs" : "1576824464122"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401596250,
+      "centerLngE7" : 694553600,
+      "visitConfidence" : 66,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 17.975668
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 11.724073
+      }, {
+        "latitudeE7" : 401607933,
+        "longitudeE7" : 694606628,
+        "placeId" : "ChIJ4z7GppalsTgRkFNxaZO7mqo",
+        "locationConfidence" : 9.424922
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 6.862637
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 5.1783476
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 3.9351199
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 3.6644719
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 2.8670793
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401589689,
+        "longitudeE7" : 694559218
+      },
+      "endLocation" : {
+        "latitudeE7" : 401632455,
+        "longitudeE7" : 694931620
+      },
+      "duration" : {
+        "startTimestampMs" : "1576824464122",
+        "endTimestampMs" : "1576836762474"
+      },
+      "distance" : 3200,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.476288199424744
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.790675401687622
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 14.269325137138367
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401590499,
+          "lngE7" : 694559097
+        }, {
+          "latE7" : 401612892,
+          "lngE7" : 694675445
+        }, {
+          "latE7" : 401632156,
+          "lngE7" : 694931869
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576836702093",
+        "location" : {
+          "latitudeE7" : 401632455,
+          "longitudeE7" : 694931620,
+          "accuracyMetres" : 88
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401622761,
+        "longitudeE7" : 694949895,
+        "placeId" : "ChIJuVKY6WmvsTgRaylAJGpXIfU",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "Школа №27",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 19.603476
+      },
+      "duration" : {
+        "startTimestampMs" : "1576836762474",
+        "endTimestampMs" : "1576843247940"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401632400,
+      "centerLngE7" : 694931600,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401645062,
+        "longitudeE7" : 694961496,
+        "placeId" : "ChIJ98KyfWmvsTgRK_yosWwy6DE",
+        "locationConfidence" : 15.733098
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 11.913664
+      }, {
+        "latitudeE7" : 401610400,
+        "longitudeE7" : 694926030,
+        "placeId" : "ChIJ4RziJ2ivsTgRrB229V4llTw",
+        "locationConfidence" : 10.960079
+      }, {
+        "latitudeE7" : 401619153,
+        "longitudeE7" : 694945583,
+        "placeId" : "ChIJ8RG43GmvsTgROkTAJRc_P6Q",
+        "locationConfidence" : 10.136967
+      }, {
+        "latitudeE7" : 401633063,
+        "longitudeE7" : 694920605,
+        "placeId" : "ChIJ7615X2ivsTgRjfdBn9s1FU0",
+        "locationConfidence" : 9.341065
+      }, {
+        "latitudeE7" : 401616652,
+        "longitudeE7" : 694890913,
+        "placeId" : "ChIJidizwWevsTgRuvh5wukCtpk",
+        "locationConfidence" : 6.606279
+      }, {
+        "latitudeE7" : 401629671,
+        "longitudeE7" : 694908613,
+        "placeId" : "ChIJM-5FXqCvsTgR2uP_5pmuPTM",
+        "locationConfidence" : 5.2941384
+      }, {
+        "latitudeE7" : 401628418,
+        "longitudeE7" : 694901589,
+        "placeId" : "ChIJjdn41GevsTgRVs-7yFvLQUI",
+        "locationConfidence" : 4.0905366
+      }, {
+        "latitudeE7" : 401617322,
+        "longitudeE7" : 694885281,
+        "placeId" : "ChIJ3bYEvGevsTgRn1853LTlQ5o",
+        "locationConfidence" : 2.8342226
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401632455,
+        "longitudeE7" : 694931620
+      },
+      "endLocation" : {
+        "latitudeE7" : 401598629,
+        "longitudeE7" : 694515119
+      },
+      "duration" : {
+        "startTimestampMs" : "1576843247940",
+        "endTimestampMs" : "1576845701469"
+      },
+      "distance" : 4606,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 50.297993421554565
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.228718042373657
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.546383678913116
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401632156,
+          "lngE7" : 694931869
+        }, {
+          "latE7" : 401629028,
+          "lngE7" : 694766159
+        }, {
+          "latE7" : 401598129,
+          "lngE7" : 694515304
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401632330,
+          "lngE7" : 694776307,
+          "timestampMs" : "1576844236655",
+          "accuracyMeters" : 87
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "address" : "Ресторан\nA376\nДехмой\nТаджикистан",
+        "name" : "Kafe \"Dusti\" Magazin",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 53.802166
+      },
+      "duration" : {
+        "startTimestampMs" : "1576845701469",
+        "endTimestampMs" : "1576855892400"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401598350,
+      "centerLngE7" : 694512000,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "name" : "Bo'lnitsa",
+        "locationConfidence" : 21.782974
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 13.951637
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 6.900695
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 3.5625257
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401597882,
+        "longitudeE7" : 694503557
+      },
+      "endLocation" : {
+        "latitudeE7" : 401642950,
+        "longitudeE7" : 694451640
+      },
+      "duration" : {
+        "startTimestampMs" : "1576855892400",
+        "endTimestampMs" : "1576864817190"
+      },
+      "distance" : 667,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 49.650001525878906
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.801356554031372
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.293134838342667
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596832,
+          "lngE7" : 694503631
+        }, {
+          "latE7" : 401643753,
+          "lngE7" : 694451293
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401597882,
+        "longitudeE7" : 694503557
+      },
+      "endLocation" : {
+        "latitudeE7" : 401642950,
+        "longitudeE7" : 694451640
+      },
+      "duration" : {
+        "startTimestampMs" : "1576864817190",
+        "endTimestampMs" : "1576897130981"
+      },
+      "distance" : 667,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 43.56900751590729
+      }, {
+        "activityType" : "STILL",
+        "probability" : 29.62689995765686
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 13.475985825061798
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596832,
+          "lngE7" : 694503631
+        }, {
+          "latE7" : 401643753,
+          "lngE7" : 694451293
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401642950,
+        "longitudeE7" : 694451640
+      },
+      "endLocation" : {
+        "latitudeE7" : 401642950,
+        "longitudeE7" : 694451640
+      },
+      "duration" : {
+        "startTimestampMs" : "1576897130981",
+        "endTimestampMs" : "1576914169025"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401643300,
+          "lngE7" : 694470833,
+          "timestampMs" : "1576907245000",
+          "accuracyMeters" : 13
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401642950,
+        "longitudeE7" : 694451640
+      },
+      "endLocation" : {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694514730
+      },
+      "duration" : {
+        "startTimestampMs" : "1576914169025",
+        "endTimestampMs" : "1576928134660"
+      },
+      "distance" : 1679,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 26.428258419036865
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.19822460412979
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 22.572709619998932
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401643753,
+          "lngE7" : 694451293
+        }, {
+          "latE7" : 401597633,
+          "lngE7" : 694512100
+        }, {
+          "latE7" : 401598052,
+          "lngE7" : 694514846
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "address" : "Ресторан\nA376\nДехмой\nТаджикистан",
+        "name" : "Kafe \"Dusti\" Magazin",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 44.22342
+      },
+      "duration" : {
+        "startTimestampMs" : "1576928134660",
+        "endTimestampMs" : "1576974532993"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401598509,
+      "centerLngE7" : 694514730,
+      "visitConfidence" : 54,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 21.01498
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 20.166307
+      }, {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "name" : "Bo'lnitsa",
+        "locationConfidence" : 11.526675
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 3.0686178
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401598231,
+        "longitudeE7" : 694476512
+      },
+      "endLocation" : {
+        "latitudeE7" : 401596318,
+        "longitudeE7" : 695203796
+      },
+      "duration" : {
+        "startTimestampMs" : "1576974532993",
+        "endTimestampMs" : "1576989923196"
+      },
+      "distance" : 8851,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 54.817306995391846
+      }, {
+        "activityType" : "STILL",
+        "probability" : 19.194774329662323
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.929218590259552
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401598243,
+          "lngE7" : 694476547
+        }, {
+          "latE7" : 401598625,
+          "lngE7" : 694518356
+        }, {
+          "latE7" : 401464271,
+          "lngE7" : 694487838
+        }, {
+          "latE7" : 401612892,
+          "lngE7" : 694675445
+        }, {
+          "latE7" : 401674118,
+          "lngE7" : 695034255
+        }, {
+          "latE7" : 401614913,
+          "lngE7" : 695184402
+        }, {
+          "latE7" : 401596374,
+          "lngE7" : 695203857
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401598509,
+          "lngE7" : 694514730,
+          "timestampMs" : "1576988272081",
+          "accuracyMeters" : 60
+        }, {
+          "latE7" : 401464265,
+          "lngE7" : 694487554,
+          "timestampMs" : "1576988464394",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 401674706,
+          "lngE7" : 695034211,
+          "timestampMs" : "1576989191001",
+          "accuracyMeters" : 77
+        }, {
+          "latE7" : 401630180,
+          "lngE7" : 695169561,
+          "timestampMs" : "1576989432976",
+          "accuracyMeters" : 92
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1576989831522",
+        "location" : {
+          "latitudeE7" : 401599475,
+          "longitudeE7" : 695200604,
+          "accuracyMetres" : 152
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401601911,
+        "longitudeE7" : 695223660,
+        "placeId" : "ChIJx2B86CavsTgRBcHmWWjnNqI",
+        "address" : "Proletarsk\nТоҷикистон",
+        "name" : "Bozori \"Ashrof\"",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 84.893326
+      },
+      "duration" : {
+        "startTimestampMs" : "1576989923196",
+        "endTimestampMs" : "1576991497180"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401597420,
+      "centerLngE7" : 695203880,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401592123,
+        "longitudeE7" : 695225549,
+        "placeId" : "ChIJL7Mnc9WvsTgR63PE2jEi5gQ",
+        "locationConfidence" : 5.901414
+      }, {
+        "latitudeE7" : 401614090,
+        "longitudeE7" : 695188934,
+        "placeId" : "ChIJaeVQ8iOvsTgRDkW4mUX2j14",
+        "locationConfidence" : 3.7210505
+      }, {
+        "latitudeE7" : 401606977,
+        "longitudeE7" : 695181853,
+        "placeId" : "ChIJqc5GdiSvsTgRSe-g5W2Z14o",
+        "locationConfidence" : 2.034465
+      }, {
+        "latitudeE7" : 401582921,
+        "longitudeE7" : 695222258,
+        "placeId" : "ChIJw2E5avCvsTgRfjgvta_SgjQ",
+        "locationConfidence" : 1.6856097
+      }, {
+        "latitudeE7" : 401616539,
+        "longitudeE7" : 695193648,
+        "placeId" : "ChIJd48Dxm2vsTgRRoSP78eQ1Zk",
+        "locationConfidence" : 0.9051143
+      }, {
+        "latitudeE7" : 401623358,
+        "longitudeE7" : 695193493,
+        "placeId" : "ChIJk-iwhD2vsTgRHyquU-JE4Sg",
+        "locationConfidence" : 0.5040055
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401596810,
+        "longitudeE7" : 695206511
+      },
+      "endLocation" : {
+        "latitudeE7" : 402799470,
+        "longitudeE7" : 696268493
+      },
+      "duration" : {
+        "startTimestampMs" : "1576991497180",
+        "endTimestampMs" : "1577072682106"
+      },
+      "distance" : 26255,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 72.30233550071716
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.934317767620087
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.279612451791763
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401595649,
+          "lngE7" : 695204620
+        }, {
+          "latE7" : 401613845,
+          "lngE7" : 694683303
+        }, {
+          "latE7" : 401591072,
+          "lngE7" : 694396667
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577072833833",
+        "location" : {
+          "latitudeE7" : 402797172,
+          "longitudeE7" : 696262337,
+          "accuracyMetres" : 107
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 402798205,
+        "longitudeE7" : 696271433,
+        "placeId" : "ChIJHTI1of6ysTgRW5L5NpkCw7A",
+        "address" : "Хуҷанд\nТоҷикистон",
+        "name" : "TajBurger",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 25.611357
+      },
+      "duration" : {
+        "startTimestampMs" : "1577072682106",
+        "endTimestampMs" : "1577073605678"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 402798900,
+      "centerLngE7" : 696263327,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 402796627,
+        "longitudeE7" : 696263629,
+        "placeId" : "ChIJ85b2u_6ysTgRaGz6DlDaNuE",
+        "locationConfidence" : 20.889902
+      }, {
+        "latitudeE7" : 402794623,
+        "longitudeE7" : 696265530,
+        "placeId" : "ChIJb7E_u_6ysTgRm9wa236Ghbw",
+        "locationConfidence" : 16.75193
+      }, {
+        "latitudeE7" : 402820960,
+        "longitudeE7" : 696261640,
+        "placeId" : "ChIJU6ESav6ysTgRQbfFnKRrKrg",
+        "locationConfidence" : 9.677064
+      }, {
+        "latitudeE7" : 402801600,
+        "longitudeE7" : 696259671,
+        "placeId" : "ChIJ67OwlP6ysTgR1BDPpL-Cv_s",
+        "locationConfidence" : 5.050456
+      }, {
+        "latitudeE7" : 402806953,
+        "longitudeE7" : 696260235,
+        "placeId" : "ChIJgWDgjP6ysTgRkOMUgB7ea0E",
+        "locationConfidence" : 4.3856072
+      }, {
+        "latitudeE7" : 402798899,
+        "longitudeE7" : 696269059,
+        "placeId" : "ChIJ8aa6o_6ysTgRV-SNL6HG_-Y",
+        "locationConfidence" : 4.2594657
+      }, {
+        "latitudeE7" : 402805319,
+        "longitudeE7" : 696274266,
+        "placeId" : "ChIJbzvDK_yysTgRtE5pmlXSAxM",
+        "locationConfidence" : 3.6493979
+      }, {
+        "latitudeE7" : 402797747,
+        "longitudeE7" : 696262539,
+        "placeId" : "ChIJkUSFvv6ysTgR9TXf8Xm2WHs",
+        "locationConfidence" : 2.4197032
+      }, {
+        "latitudeE7" : 402795157,
+        "longitudeE7" : 696277263,
+        "placeId" : "ChIJ2ftuA_yysTgRvChi3KKDuWA",
+        "locationConfidence" : 2.3599446
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 402802012,
+        "longitudeE7" : 696257947
+      },
+      "endLocation" : {
+        "latitudeE7" : 402971671,
+        "longitudeE7" : 696123330
+      },
+      "duration" : {
+        "startTimestampMs" : "1577073605678",
+        "endTimestampMs" : "1577074584079"
+      },
+      "distance" : 2210,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 49.488624930381775
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 30.85324764251709
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 9.935252368450165
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 402803535,
+          "lngE7" : 696256484
+        }, {
+          "latE7" : 402862892,
+          "lngE7" : 696222763
+        }, {
+          "latE7" : 402999610,
+          "lngE7" : 696151809
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577074584113",
+        "location" : {
+          "latitudeE7" : 402925830,
+          "longitudeE7" : 696193094,
+          "accuracyMetres" : 110
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 403000432,
+        "longitudeE7" : 696154583,
+        "placeId" : "ChIJ-0b4H6KzsTgRlgXxGNz_Bfw",
+        "address" : "Хуҷанд\nТоҷикистон",
+        "name" : "Kokhi Matbuot",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 61.461575
+      },
+      "duration" : {
+        "startTimestampMs" : "1577074584079",
+        "endTimestampMs" : "1577080976984"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 403000142,
+      "centerLngE7" : 696153142,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 403001070,
+        "longitudeE7" : 696154400,
+        "placeId" : "ChIJK83pH6KzsTgRzD2l0L6wAtw",
+        "locationConfidence" : 29.24399
+      }, {
+        "latitudeE7" : 403001160,
+        "longitudeE7" : 696154294,
+        "placeId" : "ChIJU6wyuESzsTgRPSs-z1FO2bE",
+        "locationConfidence" : 2.3400297
+      }, {
+        "latitudeE7" : 403001488,
+        "longitudeE7" : 696154368,
+        "placeId" : "ChIJX2PPH6KzsTgRjV1PCduraZQ",
+        "locationConfidence" : 1.9592763
+      }, {
+        "latitudeE7" : 403020893,
+        "longitudeE7" : 696142509,
+        "placeId" : "ChIJK4zkvpizsTgRSsXX8PUu5Is",
+        "locationConfidence" : 1.6728878
+      }, {
+        "latitudeE7" : 403001488,
+        "longitudeE7" : 696154368,
+        "placeId" : "ChIJX2PPH6KzsTgRavw17cOs-iA",
+        "locationConfidence" : 0.99414843
+      }, {
+        "latitudeE7" : 402973530,
+        "longitudeE7" : 696134768,
+        "placeId" : "ChIJcbiuvaOzsTgRK5gW9Q4xRco",
+        "locationConfidence" : 0.6878468
+      }, {
+        "latitudeE7" : 403002170,
+        "longitudeE7" : 696153780,
+        "placeId" : "ChIJj6KRv7qzsTgR2p7iH9cViyk",
+        "locationConfidence" : 0.46316907
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 402999809,
+        "longitudeE7" : 696150113
+      },
+      "endLocation" : {
+        "latitudeE7" : 401602386,
+        "longitudeE7" : 694611359
+      },
+      "duration" : {
+        "startTimestampMs" : "1577080976984",
+        "endTimestampMs" : "1577124046691"
+      },
+      "distance" : 23026,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 55.94767928123474
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 31.556931138038635
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.117478221654892
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 402983761,
+          "lngE7" : 696167979,
+          "timestampMs" : "1577081098794",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 402987700,
+          "lngE7" : 696178044,
+          "timestampMs" : "1577081219992",
+          "accuracyMeters" : 35
+        }, {
+          "latE7" : 402976885,
+          "lngE7" : 696157026,
+          "timestampMs" : "1577081341348",
+          "accuracyMeters" : 64
+        }, {
+          "latE7" : 403002380,
+          "lngE7" : 696204300,
+          "timestampMs" : "1577081466492",
+          "accuracyMeters" : 128
+        }, {
+          "latE7" : 401614940,
+          "lngE7" : 694697398,
+          "timestampMs" : "1577098874487",
+          "accuracyMeters" : 116
+        }, {
+          "latE7" : 401632813,
+          "lngE7" : 694793473,
+          "timestampMs" : "1577099176135",
+          "accuracyMeters" : 128
+        }, {
+          "latE7" : 401626304,
+          "lngE7" : 694829378,
+          "timestampMs" : "1577099300991",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 401615179,
+          "lngE7" : 694717649,
+          "timestampMs" : "1577099786060",
+          "accuracyMeters" : 77
+        }, {
+          "latE7" : 401597882,
+          "lngE7" : 694503557,
+          "timestampMs" : "1577100517076",
+          "accuracyMeters" : 72
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401576044,
+        "longitudeE7" : 694551770
+      },
+      "endLocation" : {
+        "latitudeE7" : 401602386,
+        "longitudeE7" : 694611359
+      },
+      "duration" : {
+        "startTimestampMs" : "1577124046691",
+        "endTimestampMs" : "1577139050893"
+      },
+      "distance" : 585,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.847564339637756
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 30.14255464076996
+      }, {
+        "activityType" : "STILL",
+        "probability" : 26.659396290779114
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401576957,
+          "lngE7" : 694551544
+        }, {
+          "latE7" : 401599388,
+          "lngE7" : 694577407
+        }, {
+          "latE7" : 401603240,
+          "lngE7" : 694618606
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577139050893",
+        "location" : {
+          "latitudeE7" : 401602386,
+          "longitudeE7" : 694611359,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401614482,
+        "longitudeE7" : 694460439,
+        "placeId" : "ChIJ_ZdjkQKlsTgRxqTlKe-s9O8",
+        "address" : "Proletarsk\nТоҷикистон",
+        "name" : "Ulitsa Mallaboyev 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 32.647312
+      },
+      "duration" : {
+        "startTimestampMs" : "1577139050893",
+        "endTimestampMs" : "1577159058111"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401610100,
+      "centerLngE7" : 694462300,
+      "visitConfidence" : 58,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401589545,
+        "longitudeE7" : 694446015,
+        "placeId" : "ChIJO7pnW7qlsTgRSzUPzfe9PzU",
+        "locationConfidence" : 27.237766
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 22.473783
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 17.641136
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401602386,
+        "longitudeE7" : 694611359
+      },
+      "endLocation" : {
+        "latitudeE7" : 401576850,
+        "longitudeE7" : 694564750
+      },
+      "duration" : {
+        "startTimestampMs" : "1577159058111",
+        "endTimestampMs" : "1577176428719"
+      },
+      "distance" : 487,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.92863154411316
+      }, {
+        "activityType" : "STILL",
+        "probability" : 28.209006786346436
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 21.28014713525772
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401603240,
+          "lngE7" : 694618606
+        }, {
+          "latE7" : 401609649,
+          "lngE7" : 694603652
+        }, {
+          "latE7" : 401602325,
+          "lngE7" : 694548187
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577176428719",
+        "location" : {
+          "latitudeE7" : 401576850,
+          "longitudeE7" : 694564750,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 34.556908
+      },
+      "duration" : {
+        "startTimestampMs" : "1577176428719",
+        "endTimestampMs" : "1577267042437"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401599650,
+      "centerLngE7" : 694538700,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 32.131123
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 19.379547
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 8.199056
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 5.733367
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401602962,
+        "longitudeE7" : 694548045
+      },
+      "endLocation" : {
+        "latitudeE7" : 401596455,
+        "longitudeE7" : 694529423
+      },
+      "duration" : {
+        "startTimestampMs" : "1577267042437",
+        "endTimestampMs" : "1577312837828"
+      },
+      "distance" : 6638,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 44.84844505786896
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.71411681175232
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.004201993346214
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401602325,
+          "lngE7" : 694548187
+        }, {
+          "latE7" : 401630935,
+          "lngE7" : 694772720
+        }, {
+          "latE7" : 401626434,
+          "lngE7" : 694828491
+        }, {
+          "latE7" : 401596298,
+          "lngE7" : 694528274
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401626472,
+          "lngE7" : 694828491,
+          "timestampMs" : "1577274873208",
+          "accuracyMeters" : 35
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401602962,
+        "longitudeE7" : 694548045
+      },
+      "endLocation" : {
+        "latitudeE7" : 401596455,
+        "longitudeE7" : 694529423
+      },
+      "duration" : {
+        "startTimestampMs" : "1577312837828",
+        "endTimestampMs" : "1577340915924"
+      },
+      "distance" : 174,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.150787353515625
+      }, {
+        "activityType" : "STILL",
+        "probability" : 29.7834575176239
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.786044001579285
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401602325,
+          "lngE7" : 694548187
+        }, {
+          "latE7" : 401598129,
+          "lngE7" : 694527816
+        }, {
+          "latE7" : 401596298,
+          "lngE7" : 694528274
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577340915924",
+        "location" : {
+          "latitudeE7" : 401596455,
+          "longitudeE7" : 694529423,
+          "accuracyMetres" : 160
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 43.644028
+      },
+      "duration" : {
+        "startTimestampMs" : "1577340915924",
+        "endTimestampMs" : "1577362084663"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401599650,
+      "centerLngE7" : 694538700,
+      "visitConfidence" : 59,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 25.01501
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 16.654097
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 8.321658
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 6.3652062
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401596455,
+        "longitudeE7" : 694529423
+      },
+      "endLocation" : {
+        "latitudeE7" : 401602962,
+        "longitudeE7" : 694548045
+      },
+      "duration" : {
+        "startTimestampMs" : "1577362084663",
+        "endTimestampMs" : "1577436859329"
+      },
+      "distance" : 1824,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.12226140499115
+      }, {
+        "activityType" : "STILL",
+        "probability" : 31.607064604759216
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 24.033980071544647
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596298,
+          "lngE7" : 694528274
+        }, {
+          "latE7" : 401601142,
+          "lngE7" : 694537734
+        }, {
+          "latE7" : 401602325,
+          "lngE7" : 694548187
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577436859329",
+        "location" : {
+          "latitudeE7" : 401602962,
+          "longitudeE7" : 694548045,
+          "accuracyMetres" : 73
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 44.307266
+      },
+      "duration" : {
+        "startTimestampMs" : "1577436859329",
+        "endTimestampMs" : "1577465353393"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401599650,
+      "centerLngE7" : 694538700,
+      "visitConfidence" : 59,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 18.979626
+      }, {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 18.191107
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 11.979802
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 6.542197
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401596455,
+        "longitudeE7" : 694529423
+      },
+      "endLocation" : {
+        "latitudeE7" : 401598343,
+        "longitudeE7" : 694514107
+      },
+      "duration" : {
+        "startTimestampMs" : "1577465353393",
+        "endTimestampMs" : "1577538425927"
+      },
+      "distance" : 131,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 38.67683708667755
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.946512818336487
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.5076664686203
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596298,
+          "lngE7" : 694528274
+        }, {
+          "latE7" : 401598968,
+          "lngE7" : 694520797
+        }, {
+          "latE7" : 401597976,
+          "lngE7" : 694514160
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577538213025",
+        "location" : {
+          "latitudeE7" : 401598343,
+          "longitudeE7" : 694514107,
+          "accuracyMetres" : 110
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401602962,
+        "longitudeE7" : 694548045
+      },
+      "endLocation" : {
+        "latitudeE7" : 401599014,
+        "longitudeE7" : 694528158
+      },
+      "duration" : {
+        "startTimestampMs" : "1577538425927",
+        "endTimestampMs" : "1577552386259"
+      },
+      "distance" : 2512,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 39.12275731563568
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 26.919493079185486
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.742989778518677
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401597976,
+          "lngE7" : 694514160
+        }, {
+          "latE7" : 401599464,
+          "lngE7" : 694527435
+        }, {
+          "latE7" : 401598930,
+          "lngE7" : 694527587
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "address" : "Ресторан\nA376\nДехмой\nТаджикистан",
+        "name" : "Kafe \"Dusti\" Magazin",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 43.63359
+      },
+      "duration" : {
+        "startTimestampMs" : "1577552386259",
+        "endTimestampMs" : "1577568774128"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401597900,
+      "centerLngE7" : 694523500,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 18.729294
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 16.426178
+      }, {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "name" : "Bo'lnitsa",
+        "locationConfidence" : 12.321749
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 6.936355
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 1.9528332
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401596455,
+        "longitudeE7" : 694529423
+      },
+      "endLocation" : {
+        "latitudeE7" : 401602962,
+        "longitudeE7" : 694548045
+      },
+      "duration" : {
+        "startTimestampMs" : "1577568774128",
+        "endTimestampMs" : "1577592518150"
+      },
+      "distance" : 174,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 39.20902609825134
+      }, {
+        "activityType" : "STILL",
+        "probability" : 29.826050996780396
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.685332596302032
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596298,
+          "lngE7" : 694528274
+        }, {
+          "latE7" : 401602325,
+          "lngE7" : 694548187
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401596455,
+        "longitudeE7" : 694529423
+      },
+      "endLocation" : {
+        "latitudeE7" : 401068678,
+        "longitudeE7" : 694798092
+      },
+      "duration" : {
+        "startTimestampMs" : "1577592518150",
+        "endTimestampMs" : "1577605982185"
+      },
+      "distance" : 9338,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 44.70708966255188
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 31.843501329421997
+      }, {
+        "activityType" : "STILL",
+        "probability" : 18.39057356119156
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596298,
+          "lngE7" : 694528274
+        }, {
+          "latE7" : 401621551,
+          "lngE7" : 694884262
+        }, {
+          "latE7" : 401047401,
+          "lngE7" : 694826583
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401621411,
+          "lngE7" : 694869123,
+          "timestampMs" : "1577593997699",
+          "accuracyMeters" : 82
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577605982185",
+        "location" : {
+          "latitudeE7" : 401068678,
+          "longitudeE7" : 694798092,
+          "accuracyMetres" : 147
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401068678,
+        "longitudeE7" : 694798092
+      },
+      "endLocation" : {
+        "latitudeE7" : 401609500,
+        "longitudeE7" : 694915600
+      },
+      "duration" : {
+        "startTimestampMs" : "1577605982185",
+        "endTimestampMs" : "1577615760689"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401554194,
+          "lngE7" : 694998685,
+          "timestampMs" : "1577615387811",
+          "accuracyMeters" : 500
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401621003,
+        "longitudeE7" : 694893687,
+        "placeId" : "ChIJT89bxGevsTgROdx54slqA-I",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 22.261911
+      },
+      "duration" : {
+        "startTimestampMs" : "1577615760689",
+        "endTimestampMs" : "1577616131550"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401609500,
+      "centerLngE7" : 694915600,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401610400,
+        "longitudeE7" : 694926030,
+        "placeId" : "ChIJ4RziJ2ivsTgRrB229V4llTw",
+        "locationConfidence" : 17.65478
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 14.718912
+      }, {
+        "latitudeE7" : 401622516,
+        "longitudeE7" : 694888238,
+        "placeId" : "ChIJAYHFt2evsTgRFgPUmsyx694",
+        "locationConfidence" : 13.336101
+      }, {
+        "latitudeE7" : 401622761,
+        "longitudeE7" : 694949895,
+        "placeId" : "ChIJuVKY6WmvsTgRaylAJGpXIfU",
+        "locationConfidence" : 8.828089
+      }, {
+        "latitudeE7" : 401625122,
+        "longitudeE7" : 694858334,
+        "placeId" : "ChIJSSoRcCKvsTgRZwLaTUicf54",
+        "locationConfidence" : 5.4101167
+      }, {
+        "latitudeE7" : 401616652,
+        "longitudeE7" : 694890913,
+        "placeId" : "ChIJidizwWevsTgRuvh5wukCtpk",
+        "locationConfidence" : 5.398803
+      }, {
+        "latitudeE7" : 401619153,
+        "longitudeE7" : 694945583,
+        "placeId" : "ChIJ8RG43GmvsTgROkTAJRc_P6Q",
+        "locationConfidence" : 3.8951705
+      }, {
+        "latitudeE7" : 401629671,
+        "longitudeE7" : 694908613,
+        "placeId" : "ChIJM-5FXqCvsTgR2uP_5pmuPTM",
+        "locationConfidence" : 3.7613006
+      }, {
+        "latitudeE7" : 401629886,
+        "longitudeE7" : 694899242,
+        "placeId" : "ChIJHxUu5SivsTgRQzdsk1kXtbo",
+        "locationConfidence" : 1.9501715
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401605490,
+        "longitudeE7" : 694915094
+      },
+      "endLocation" : {
+        "latitudeE7" : 401610300,
+        "longitudeE7" : 694655383
+      },
+      "duration" : {
+        "startTimestampMs" : "1577616131550",
+        "endTimestampMs" : "1577616521350"
+      },
+      "distance" : 2264,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 59.07227396965027
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 25.38140118122101
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 6.796611100435257
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401605453,
+          "lngE7" : 694915084
+        }, {
+          "latE7" : 401621551,
+          "lngE7" : 694884262
+        }, {
+          "latE7" : 401610336,
+          "lngE7" : 694655380
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401622003,
+          "lngE7" : 694881168,
+          "timestampMs" : "1577616252660",
+          "accuracyMeters" : 47
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577616641577",
+        "location" : {
+          "latitudeE7" : 401610323,
+          "longitudeE7" : 694651059,
+          "accuracyMetres" : 132
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401610222,
+        "longitudeE7" : 694637985,
+        "placeId" : "ChIJ1yiBN5GlsTgRq_RruD8pZfI",
+        "address" : "5 этаж\nПролетарск\nТаджикистан",
+        "name" : "5 этаж",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 30.888699
+      },
+      "duration" : {
+        "startTimestampMs" : "1577616521350",
+        "endTimestampMs" : "1577617014835"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401610750,
+      "centerLngE7" : 694651575,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401618118,
+        "longitudeE7" : 694685593,
+        "placeId" : "ChIJO0ADhI6lsTgRVvdBhusB7M0",
+        "locationConfidence" : 19.148243
+      }, {
+        "latitudeE7" : 401612717,
+        "longitudeE7" : 694712627,
+        "placeId" : "ChIJR2NrF4ylsTgR0V9GBjKTOwg",
+        "locationConfidence" : 17.1007
+      }, {
+        "latitudeE7" : 401613009,
+        "longitudeE7" : 694714142,
+        "placeId" : "ChIJA6y3EIylsTgR2Njxw7--VYQ",
+        "locationConfidence" : 12.280587
+      }, {
+        "latitudeE7" : 401606151,
+        "longitudeE7" : 694631141,
+        "placeId" : "ChIJPw8byFClsTgREXFDEFEqK2g",
+        "locationConfidence" : 9.192639
+      }, {
+        "latitudeE7" : 401617882,
+        "longitudeE7" : 694700074,
+        "placeId" : "ChIJn3ppgo6lsTgRHAxVlL4-bsY",
+        "locationConfidence" : 5.962369
+      }, {
+        "latitudeE7" : 401612963,
+        "longitudeE7" : 694713326,
+        "placeId" : "ChIJd4BPF4ylsTgRAg2DERvRt_Y",
+        "locationConfidence" : 3.7867458
+      }, {
+        "latitudeE7" : 401612622,
+        "longitudeE7" : 694705211,
+        "placeId" : "ChIJM8p6hoKlsTgRd6631YWtWKU",
+        "locationConfidence" : 1.6400151
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401611298,
+        "longitudeE7" : 694650145
+      },
+      "endLocation" : {
+        "latitudeE7" : 401478827,
+        "longitudeE7" : 694723089
+      },
+      "duration" : {
+        "startTimestampMs" : "1577617014835",
+        "endTimestampMs" : "1577643092626"
+      },
+      "distance" : 10537,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.69659388065338
+      }, {
+        "activityType" : "STILL",
+        "probability" : 23.174816370010376
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.958295464515686
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401610221,
+          "lngE7" : 694650192
+        }, {
+          "latE7" : 401621551,
+          "lngE7" : 694884262
+        }, {
+          "latE7" : 401676368,
+          "lngE7" : 695061416
+        }, {
+          "latE7" : 401479606,
+          "lngE7" : 694723739
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401675949,
+          "lngE7" : 695060577,
+          "timestampMs" : "1577620510782",
+          "accuracyMeters" : 29
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577642864384",
+        "location" : {
+          "latitudeE7" : 401461315,
+          "longitudeE7" : 694679242,
+          "accuracyMetres" : 158
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401478785,
+        "longitudeE7" : 694752528,
+        "placeId" : "ChIJwRDxLfClsTgRjrU8WivJomU",
+        "address" : "Навои, Пролетарск\nПролетарск\nТаджикистан",
+        "name" : "Dom ikrom",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 69.85716
+      },
+      "duration" : {
+        "startTimestampMs" : "1577643092626",
+        "endTimestampMs" : "1577670964738"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401478467,
+      "centerLngE7" : 694726733,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401479024,
+        "longitudeE7" : 694752957,
+        "placeId" : "ChIJ6f4S9Z6lsTgR2KbPbKKhrvE",
+        "locationConfidence" : 30.142841
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401478827,
+        "longitudeE7" : 694723089
+      },
+      "endLocation" : {
+        "latitudeE7" : 401617764,
+        "longitudeE7" : 694885474
+      },
+      "duration" : {
+        "startTimestampMs" : "1577670964738",
+        "endTimestampMs" : "1577673678177"
+      },
+      "distance" : 2889,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 49.00729060173035
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 30.449670553207397
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 10.979802906513214
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401461296,
+          "lngE7" : 694679260
+        }, {
+          "latE7" : 401622161,
+          "lngE7" : 694875564
+        }, {
+          "latE7" : 401621475,
+          "lngE7" : 694885787
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577673743130",
+        "location" : {
+          "latitudeE7" : 401617764,
+          "longitudeE7" : 694885474,
+          "accuracyMetres" : 128
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401619768,
+        "longitudeE7" : 694877529,
+        "placeId" : "ChIJv-pDqGevsTgRy_pFdxSQx6M",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "LTD",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 30.78346
+      },
+      "duration" : {
+        "startTimestampMs" : "1577673678177",
+        "endTimestampMs" : "1577681085980"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401618914,
+      "centerLngE7" : 694882914,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401617322,
+        "longitudeE7" : 694885281,
+        "placeId" : "ChIJ3bYEvGevsTgRn1853LTlQ5o",
+        "locationConfidence" : 19.839699
+      }, {
+        "latitudeE7" : 401616652,
+        "longitudeE7" : 694890913,
+        "placeId" : "ChIJidizwWevsTgRuvh5wukCtpk",
+        "locationConfidence" : 17.138504
+      }, {
+        "latitudeE7" : 401619872,
+        "longitudeE7" : 694881000,
+        "placeId" : "ChIJk7bGjwuvsTgRozVvJyzdiRY",
+        "locationConfidence" : 9.195254
+      }, {
+        "latitudeE7" : 401621003,
+        "longitudeE7" : 694893687,
+        "placeId" : "ChIJT89bxGevsTgROdx54slqA-I",
+        "locationConfidence" : 8.377388
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 3.160926
+      }, {
+        "latitudeE7" : 401616980,
+        "longitudeE7" : 694889465,
+        "placeId" : "ChIJOZ-JwGevsTgRfucyX6iXYuY",
+        "locationConfidence" : 2.5390399
+      }, {
+        "latitudeE7" : 401616478,
+        "longitudeE7" : 694889286,
+        "placeId" : "ChIJt7-qzPGvsTgRpUbFF8Yv0W8",
+        "locationConfidence" : 2.2293406
+      }, {
+        "latitudeE7" : 401625122,
+        "longitudeE7" : 694858334,
+        "placeId" : "ChIJSSoRcCKvsTgRZwLaTUicf54",
+        "locationConfidence" : 2.0847285
+      }, {
+        "latitudeE7" : 401622516,
+        "longitudeE7" : 694888238,
+        "placeId" : "ChIJAYHFt2evsTgRFgPUmsyx694",
+        "locationConfidence" : 2.0423074
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401617764,
+        "longitudeE7" : 694885474
+      },
+      "endLocation" : {
+        "latitudeE7" : 401617764,
+        "longitudeE7" : 694885474
+      },
+      "duration" : {
+        "startTimestampMs" : "1577681085980",
+        "endTimestampMs" : "1577703770999"
+      },
+      "distance" : 6575,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 62.91160583496094
+      }, {
+        "activityType" : "STILL",
+        "probability" : 16.851231455802917
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 9.352783113718033
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401621475,
+          "lngE7" : 694885787
+        }, {
+          "latE7" : 401626853,
+          "lngE7" : 694758453
+        }, {
+          "latE7" : 401596794,
+          "lngE7" : 694502258
+        }, {
+          "latE7" : 401622428,
+          "lngE7" : 694871444
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401596718,
+          "lngE7" : 694502258,
+          "timestampMs" : "1577702523594",
+          "accuracyMeters" : 64
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577703832885",
+        "location" : {
+          "latitudeE7" : 401618435,
+          "longitudeE7" : 694885280,
+          "accuracyMetres" : 158
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401619768,
+        "longitudeE7" : 694877529,
+        "placeId" : "ChIJv-pDqGevsTgRy_pFdxSQx6M",
+        "address" : "S Ayniy\nProletarsk\nTajikistan",
+        "name" : "LTD",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 40.879993
+      },
+      "duration" : {
+        "startTimestampMs" : "1577703770999",
+        "endTimestampMs" : "1577708546042"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401620775,
+      "centerLngE7" : 694883112,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401621003,
+        "longitudeE7" : 694893687,
+        "placeId" : "ChIJT89bxGevsTgROdx54slqA-I",
+        "locationConfidence" : 12.166128
+      }, {
+        "latitudeE7" : 401616652,
+        "longitudeE7" : 694890913,
+        "placeId" : "ChIJidizwWevsTgRuvh5wukCtpk",
+        "locationConfidence" : 10.170461
+      }, {
+        "latitudeE7" : 401619872,
+        "longitudeE7" : 694881000,
+        "placeId" : "ChIJk7bGjwuvsTgRozVvJyzdiRY",
+        "locationConfidence" : 9.077736
+      }, {
+        "latitudeE7" : 401617322,
+        "longitudeE7" : 694885281,
+        "placeId" : "ChIJ3bYEvGevsTgRn1853LTlQ5o",
+        "locationConfidence" : 8.914607
+      }, {
+        "latitudeE7" : 401632743,
+        "longitudeE7" : 694911456,
+        "placeId" : "ChIJ77nWgHWvsTgRLqKgJjlK-xQ",
+        "locationConfidence" : 4.540762
+      }, {
+        "latitudeE7" : 401622516,
+        "longitudeE7" : 694888238,
+        "placeId" : "ChIJAYHFt2evsTgRFgPUmsyx694",
+        "locationConfidence" : 3.5627766
+      }, {
+        "latitudeE7" : 401625122,
+        "longitudeE7" : 694858334,
+        "placeId" : "ChIJSSoRcCKvsTgRZwLaTUicf54",
+        "locationConfidence" : 3.0914495
+      }, {
+        "latitudeE7" : 401628418,
+        "longitudeE7" : 694901589,
+        "placeId" : "ChIJjdn41GevsTgRVs-7yFvLQUI",
+        "locationConfidence" : 2.1843214
+      }, {
+        "latitudeE7" : 401616980,
+        "longitudeE7" : 694889465,
+        "placeId" : "ChIJOZ-JwGevsTgRfucyX6iXYuY",
+        "locationConfidence" : 2.0952613
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401622003,
+        "longitudeE7" : 694881168
+      },
+      "endLocation" : {
+        "latitudeE7" : 401576732,
+        "longitudeE7" : 694555494
+      },
+      "duration" : {
+        "startTimestampMs" : "1577708546042",
+        "endTimestampMs" : "1577760120778"
+      },
+      "distance" : 3559,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 75.87771415710449
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.157939076423645
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.71795392036438
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401621780,
+          "lngE7" : 694881134
+        }, {
+          "latE7" : 401626853,
+          "lngE7" : 694758453
+        }, {
+          "latE7" : 401577453,
+          "lngE7" : 694555358
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577760120778",
+        "location" : {
+          "latitudeE7" : 401576732,
+          "longitudeE7" : 694555494,
+          "accuracyMetres" : 110
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401608605,
+        "longitudeE7" : 694462384
+      },
+      "endLocation" : {
+        "latitudeE7" : 401606086,
+        "longitudeE7" : 694579616
+      },
+      "duration" : {
+        "startTimestampMs" : "1577760120778",
+        "endTimestampMs" : "1577761178803"
+      },
+      "distance" : 1018,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 41.04655981063843
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.844761729240417
+      }, {
+        "activityType" : "STILL",
+        "probability" : 20.40395885705948
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401609535,
+          "lngE7" : 694458618
+        }, {
+          "latE7" : 401598625,
+          "lngE7" : 694518356
+        }, {
+          "latE7" : 401606407,
+          "lngE7" : 694579544
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401598303,
+          "lngE7" : 694513671,
+          "timestampMs" : "1577760806850",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "address" : "ГУЛАКАНДОЗ\nПролетарск\nТаджикистан",
+        "name" : "Magazin Iroda",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 51.91266
+      },
+      "duration" : {
+        "startTimestampMs" : "1577761178803",
+        "endTimestampMs" : "1577763006340"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 401593263,
+          "longitudeE7" : 694597061,
+          "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+          "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+          "name" : "Stadion Shkola 5",
+          "sourceInfo" : {
+            "deviceTag" : -1783176341
+          },
+          "locationConfidence" : 29.050575
+        },
+        "duration" : {
+          "startTimestampMs" : "1577761178803",
+          "endTimestampMs" : "1577763006340"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 401605681,
+        "centerLngE7" : 694579075,
+        "visitConfidence" : 89,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 401598162,
+          "longitudeE7" : 694560814,
+          "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+          "locationConfidence" : 12.022941
+        }, {
+          "latitudeE7" : 401603479,
+          "longitudeE7" : 694567057,
+          "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+          "locationConfidence" : 4.1657257
+        }, {
+          "latitudeE7" : 401604115,
+          "longitudeE7" : 694592441,
+          "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+          "locationConfidence" : 3.7494984
+        }, {
+          "latitudeE7" : 401601237,
+          "longitudeE7" : 694592571,
+          "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+          "locationConfidence" : 2.9239175
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 401605681,
+      "centerLngE7" : 694579075,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "locationConfidence" : 26.90991
+      }, {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 11.137
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 3.858764
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 3.4732072
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 2.7084613
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401606086,
+        "longitudeE7" : 694579616
+      },
+      "endLocation" : {
+        "latitudeE7" : 401598311,
+        "longitudeE7" : 694513915
+      },
+      "duration" : {
+        "startTimestampMs" : "1577763006340",
+        "endTimestampMs" : "1577763372814"
+      },
+      "distance" : 565,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 60.85549592971802
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.924587547779083
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 10.856559872627258
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401606407,
+          "lngE7" : 694579544
+        }, {
+          "latE7" : 401598968,
+          "lngE7" : 694520721
+        }, {
+          "latE7" : 401597938,
+          "lngE7" : 694514007
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401598871,
+          "lngE7" : 694525374,
+          "timestampMs" : "1577763250937",
+          "accuracyMeters" : 100
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401600494,
+        "longitudeE7" : 694524307,
+        "placeId" : "ChIJswJrbZalsTgRR_DRAmwzTSk",
+        "address" : "боьлница\nR Mamatov St\nПролетарск\nТаджикистан",
+        "name" : "боьлница",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 38.129852
+      },
+      "duration" : {
+        "startTimestampMs" : "1577763372814",
+        "endTimestampMs" : "1577763858574"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 401597020,
+      "centerLngE7" : 694504540,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401597642,
+        "longitudeE7" : 694510667,
+        "placeId" : "ChIJ6RgrT7ylsTgRGmaANUE5OnQ",
+        "locationConfidence" : 37.46117
+      }, {
+        "latitudeE7" : 401596056,
+        "longitudeE7" : 694489658,
+        "placeId" : "ChIJ4YeUEtalsTgR7I7-RpC6hO4",
+        "locationConfidence" : 14.593662
+      }, {
+        "latitudeE7" : 401599082,
+        "longitudeE7" : 694535625,
+        "placeId" : "ChIJrWUyvhWlsTgRIPb2nSeknSE",
+        "locationConfidence" : 6.2775
+      }, {
+        "latitudeE7" : 401598509,
+        "longitudeE7" : 694497413,
+        "placeId" : "ChIJeyM_lzOlsTgRhoa0QdLm8ug",
+        "locationConfidence" : 3.537815
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401596735,
+        "longitudeE7" : 694502277
+      },
+      "endLocation" : {
+        "latitudeE7" : 401615150,
+        "longitudeE7" : 694713325
+      },
+      "duration" : {
+        "startTimestampMs" : "1577763858574",
+        "endTimestampMs" : "1577775967922"
+      },
+      "distance" : 1902,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 41.54658019542694
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 24.689792096614838
+      }, {
+        "activityType" : "STILL",
+        "probability" : 15.173321962356567
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401596794,
+          "lngE7" : 694502258
+        }, {
+          "latE7" : 401614151,
+          "lngE7" : 694689407
+        }, {
+          "latE7" : 401615180,
+          "lngE7" : 694713287
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401612560,
+          "lngE7" : 694709146,
+          "timestampMs" : "1577774291800",
+          "accuracyMeters" : 64
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 401615179,
+        "longitudeE7" : 694717649
+      },
+      "endLocation" : {
+        "latitudeE7" : 401585618,
+        "longitudeE7" : 694570391
+      },
+      "duration" : {
+        "startTimestampMs" : "1577775967922",
+        "endTimestampMs" : "1577789338710"
+      },
+      "distance" : 1293,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.961145758628845
+      }, {
+        "activityType" : "STILL",
+        "probability" : 24.686776101589203
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 17.078281939029694
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 401615600,
+          "lngE7" : 694717559
+        }, {
+          "latE7" : 401609649,
+          "lngE7" : 694603652
+        }, {
+          "latE7" : 401591682,
+          "lngE7" : 694569168
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1577789157294",
+        "location" : {
+          "latitudeE7" : 401615179,
+          "longitudeE7" : 694717649,
+          "accuracyMetres" : 158
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 401593263,
+        "longitudeE7" : 694597061,
+        "placeId" : "ChIJ5ZvlGpSlsTgRB5zPbLrAkmk",
+        "address" : "Гулакандоз\nProletarsk\nТоҷикистон",
+        "name" : "Stadion Shkola 5",
+        "sourceInfo" : {
+          "deviceTag" : -1783176341
+        },
+        "locationConfidence" : 49.55395
+      },
+      "duration" : {
+        "startTimestampMs" : "1577789338710",
+        "endTimestampMs" : "1577862335272"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 401590350,
+      "centerLngE7" : 694579650,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 401598162,
+        "longitudeE7" : 694560814,
+        "placeId" : "ChIJCW-xEpalsTgRFPXs26ndd_U",
+        "locationConfidence" : 28.10063
+      }, {
+        "latitudeE7" : 401604115,
+        "longitudeE7" : 694592441,
+        "placeId" : "ChIJcZUjvZalsTgR6A-k7NPwBhw",
+        "locationConfidence" : 7.531108
+      }, {
+        "latitudeE7" : 401603479,
+        "longitudeE7" : 694567057,
+        "placeId" : "ChIJL2aZaJalsTgRpTuOS-GJajE",
+        "locationConfidence" : 5.8503923
+      }, {
+        "latitudeE7" : 401601237,
+        "longitudeE7" : 694592571,
+        "placeId" : "ChIJV3JKopalsTgRBuyGt3CoPRs",
+        "locationConfidence" : 4.710288
+      }, {
+        "latitudeE7" : 401604176,
+        "longitudeE7" : 694578704,
+        "placeId" : "ChIJa6oBrmGlsTgRJkiRW3EOyWA",
+        "locationConfidence" : 4.2536316
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
